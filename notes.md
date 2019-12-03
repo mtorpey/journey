@@ -99,7 +99,7 @@ Important features that might dramatically change the game.  Introduce these ove
 - Movement is impaired in the country (lower of two rolls?)
 - When a player hands in a card here, they roll a die
   * 6: the war ends
-  * otherwise: split this country into two countries 
+  * otherwise: split this country into two countries
   * equal number of cities (or as close as possible)
   * draw the border in permanent marker
   * both countries are at civil war
@@ -147,16 +147,20 @@ These are added to characters over time.  Perhaps 1 for each player after a game
 - Late planner: when handing in 5th destination, may trade one destination card to the bank for a random of the same colour
 - Brit abroad: challenges player in same city to fight. Some penalty for loser. Miss next turn?
 - Revolutionary: once per game, you may change the faction of the country you are in to that of a neighbouring country
+- True Neutral: once per game, you may change the faction of the country you are in to "non-aligned" (not the Soviet Union)
 - Off-duty pilot: can fly for free once per game
 - Cuckoo: can kick player out of city to neighbouring one
 - Speedboat salesman: can move through flooded cities (but not end turn there)
 - Crow: travels 'as the crow flies'
 - Holiday romance: opposite of backpacker. Drags other player around for 2 turns.
-- Rockstar: you may choose (before rolling) to double your roll, but the player to your left then rolls and moves for you afterwards.
+- Rockstar: you may choose (before rolling) to double your roll, but the player to your left then rolls and moves for you afterwards, before their turn.
 
 ### Event cards
 If you roll a double-6, draw one and resolve it immediately, instead of moving.
 - Lost luggage: have to go back to previous city to pick it up?
+- Swiss imports: this country becomes non-aligned.
+  * If it was already non-aligned choose a neighbouring country to become non-aligned instead.
+- New airport: add an airport to this city, if there is not one there already.
 - Ash cloud: no more flying for the rest of the game
 - Civil unrest: no one can enter this country for the rest of the game
   * Any players with destination cards here must exchange them for random cards of the same colour
@@ -164,6 +168,9 @@ If you roll a double-6, draw one and resolve it immediately, instead of moving.
   * If it was already WP, choose a neighbouring country to join WP instead
 - Summit: each player must visit this city before they can hand in any more destination cards
 - Fall of the Berlin Wall
+- Chernobyl disaster
+- Exit: this country leaves the EU -- stick a yellow sticker on it (*)
+- Brexit: the UK votes to leave the EU.  Either put a yellow sticker on it, or ignore the will of the people and take another Event card (*)
 - UK invades Faroe Islands: all sea routes in northwest quarter of the board cost double for rest of game (*)
 - Royal Navy attempts invasion: all sea routes connected to this country are blocked for rest of game (*)
 - Ancient ruins discovered: all other players add this city as an extra destination
@@ -173,7 +180,7 @@ If you roll a double-6, draw one and resolve it immediately, instead of moving.
 - Redistribution of wealth: all destination cards from all players shuffled together and dealt out clockwisse (starting to left of current player) (* Fall of Capitalism)
 - Capitalism is unfair: whoever has fewest destination cards gives one to another player. (* Fall of Communism)
   * If tied, all tied players do so.
-- Pandemic 
+- Pandemic
   * Each time *you* end your turn in a city, place a disease token there
   * Each time *another* player moves into or through an infected city, you get an extra movement point on your next turn
 - Animal escapes from zoo
@@ -188,16 +195,16 @@ If you roll a double-6, draw one and resolve it immediately, instead of moving.
   * Each time one of you moves, the other is dragged along
   * You must visit all destination cards you both have (including their home)
   * Return to *your* home at the end - the win is shared!
+- Tour de France: Cost of all road movement in France is doubled, and French railways are unusable, for the rest of the game.  The first player to travel from Strasbourg to Marseilles to Bordeaux to Paris, all by road, may hand in any 3 destination cards for free (not their home city).
 - Alien invasion
 
 - French train drivers strike
 
-- Taken? 
+- Taken?
   * Have to save kidnapped travelling companion
 - Puncture
-  * Car journey cut short 
+  * Car journey cut short
   * Might be a card thar you can play on someone else
  - London Olympics
    * Everyone must visit London in that game
  - AC/DC
-

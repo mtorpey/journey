@@ -123,88 +123,67 @@ These decks will be added to the game:
 
 ### Character abilities
 These are added to characters over time.  Perhaps 1 for each player after a game, but hand out in order of how many destinations you have left.
-- Private yacht: you may move along the coast by 1 city as if it were a sea route.
-  * give examples
-- Olympian: you may move immediately to Athens instead of a normal turn.
-- Viking: you may move immediately to Reykjavík instead of a normal turn.
-- Hare: rolls of 5 or 6 are doubled, but rolls of 1--4 count for 0.
-- Tortoise: ignore and reroll all 6s, but get an extra turn when you roll a 1.
-- Black cat: if you roll a 1, you may ignore it and reroll; if the new roll is also a 1, take an event card.
-- Commander: if you roll a 1, make your move and then move another player 1 city by road (ignoring any movement penalties).
-- Interpol: if you move into or through a city occupied by another player, you may move that player to your home city.
-- Frequent flyer: flights cost 1 less
-- Hajji: land routes going southeast cost only half a point
-  * single land routes where end city is both down *and* right of start city
-  * e.g. Trondheim--Sundsvall, Naples--Messina
-- Diplomat: can move between NATO and WP countries
-- American tourist: only visits one city in each country or can't stay anywhere more than one turn
-- Dora: gets an extra roll after a 5/6
-- Chef: can return to Paris at any time
-- Flygskam: add 2 (or 3?) to all rolls, but cannot fly
-- Hipster: won't visit anywhere someone has been before
-- Seasick: can't travel by sea
-- Lonely backpacker: follows around players they encounter for 2 turns
-- Late planner: when handing in 5th destination, may trade one destination card to the bank for a random of the same colour
-- Brit abroad: challenges player in same city to fight. Some penalty for loser. Miss next turn?
-- Revolutionary: once per game, you may change the faction of the country you are in to that of a neighbouring country
-- True Neutral: once per game, you may change the faction of the country you are in to "non-aligned" (not the Soviet Union)
-- Off-duty pilot: can fly for free once per game
-- Cuckoo: can kick player out of city to neighbouring one
-- Speedboat salesman: can move through flooded cities (but not end turn there)
-- Crow: travels 'as the crow flies'
-- Holiday romance: opposite of backpacker. Drags other player around for 2 turns.
-- Rockstar: you may choose (before rolling) to double your roll, but the player to your left then rolls and moves for you afterwards, before their turn.
+- (A) **Private yacht**: You may move along the coast by 1 city as if it were a sea route, e.g. Brest to Nantes or Riga to Gdansk
+- (A) **Olympian**: You may move immediately to Athens instead of a normal turn.
+- (A) **Viking**: You may move immediately to Reykjavík instead of a normal turn.
+- (A) **Chef**: You may move immediately to Paris instead of a normal turn.
+- (A) **Hare**: Rolls of 5 or 6 are doubled, but rolls of 1--4 count for 0.
+- (A) **Tortoise**: Ignore and reroll all 6s, but get an extra turn when you roll a 1.
+- (A) **Black cat**: If you roll a 1, you may ignore it and reroll.
+- (A) **Dora**: If you roll a 5 or 6, you get an extra turn.
+- (A) **Commander**: If you roll a 1, make your move and then move another player 1 city by road (ignoring any movement penalties).
+- (A) **Interpol**: If you move into or through a city occupied by another player, you may move that player to your home city.
+- (A) **Frequent flyer**: Flights cost 1 movement point less than usual.
+- (A) **Hajji**: Land routes going southeast cost only half a point, e.g. Trondheim to Sundsvall or Naples to Messina.
+- (A) **Diplomat**: You can move between NATO and WP countries.
+- (A) **Flygskam**: Add 2 to all rolls, but you cannot fly.
+- (A) **Seasick**: You cannot travel by sea, but you can fly to Ajaccio, Cagliari, Faeroe and Shetland.
+- (A) **Lonely backpacker**: Whenever you are in the same city as another player (even passing through), you must stop immediately and follow that player for their next 2 turns, missing your own 2 turns on those rounds.
+- (A) **Late planner**: When handing in your 5th destination, you may trade one destination card to the bank for a random one of the same colour.
+- (A) **Brit abroad**: Whenever you are in the same city as another player (even passing through), challenge that player to fight: each player rolls the die, and the lower roll loses and misses their next turn.
+- (A) **Revolutionary**: Once per game, you may change the faction of the country you are in to that of a neighbouring country.
+- (A) **True Neutral**: Once per game, you may change the faction of the country you are in to "non-aligned" (not the Soviet Union).
+- (A) **Off-duty pilot**: You may make one free flight per game.
+- (A) **Cuckoo**: Whenever you are in the same city as another player (even passing through), you can kick that player out to any neighbouring city.
+- (A) **Speedboat salesman**: You may end your turn in a flooded city.
+- (A) **Lover**: Whenever you are in the same city as another player (even passing through), that player follows you for this and your next turn, missing their own turns in these rounds.
+- (A) **Rockstar**: Before rolling for your movement, you may choose to double your roll.  You move, but the player to your left then rolls and moves for you, before taking their own turn.
+
+- ~~Hipster: you cannot end your turn anywhere that someone else has previously (in this game) ended theirs~~
+- ~~**American tourist**: you cannot end consecutive turns in the same country~~
 
 ### Event cards
 If you roll a double-6, draw one and resolve it immediately, instead of moving.
-- Lost luggage: have to go back to previous city to pick it up?
-- Swiss imports: this country becomes non-aligned.
-  * If it was already non-aligned choose a neighbouring country to become non-aligned instead.
-- New airport: add an airport to this city, if there is not one there already.
-- Ash cloud: no more flying for the rest of the game
-- Civil unrest: no one can enter this country for the rest of the game
-  * Any players with destination cards here must exchange them for random cards of the same colour
-- Communist Revolution: this country joins the Warsaw Pact
-  * If it was already WP, choose a neighbouring country to join WP instead
-- Summit: each player must visit this city before they can hand in any more destination cards
-- Fall of the Berlin Wall
-- Chernobyl disaster
-- Exit: this country leaves the EU -- stick a yellow sticker on it (*)
-- Brexit: the UK votes to leave the EU.  Either put a yellow sticker on it, or ignore the will of the people and take another Event card (*)
-- UK invades Faroe Islands: all sea routes in northwest quarter of the board cost double for rest of game (*)
-- Royal Navy attempts invasion: all sea routes connected to this country are blocked for rest of game (*)
-- Ancient ruins discovered: all other players add this city as an extra destination
-- Eurovision Song Contest: your current country has won!  Add 1 to all rolls made in this country and its neighbours (who all voted for it) for the rest of the game
-- Flight diverted: each player passes 2 destination cards to the player on their left.
-  * Don't have 2?  Just pass 1.
-- Redistribution of wealth: all destination cards from all players shuffled together and dealt out clockwisse (starting to left of current player) (* Fall of Capitalism)
-- Capitalism is unfair: whoever has fewest destination cards gives one to another player. (* Fall of Communism)
-  * If tied, all tied players do so.
-- Pandemic
-  * Each time *you* end your turn in a city, place a disease token there
-  * Each time *another* player moves into or through an infected city, you get an extra movement point on your next turn
-- Animal escapes from zoo
-- Giant Portuguese chicken begins rampage
-  * Add a token to (city in Portugal) for the giant chicken
-  * At end of each player's turn, they move the chicken along one land or sea route
-  * If the chicken *moves onto* a city occupied by a player, that player misses 3 turns
-- Holiday romance: fall in love with a player of your choice
-  * Move immediately to their space
-  * Share destination cards with them
-  * Remove their home marker
-  * Each time one of you moves, the other is dragged along
-  * You must visit all destination cards you both have (including their home)
-  * Return to *your* home at the end - the win is shared!
-- Tour de France: Cost of all road movement in France is doubled, and French railways are unusable, for the rest of the game.  The first player to travel from Strasbourg to Marseilles to Bordeaux to Paris, all by road, may hand in any 3 destination cards for free (not their home city).
-- Alien invasion
+- (E) **Lost Luggage**: No one may hand in any more destination cards until they revisit the last destination they handed in (or their home city if they haven't handed in any).
+- (E) **Swiss Imports**: This country becomes non-aligned.  If it was already non-aligned, choose a neighbouring country to become non-aligned as well.
+- (E) **New Airport**: Add an airport to this city, if there is not one here already.
+- (E) **Ash Cloud**: Flying is not allowed for the rest of this game.
+- (E) **Civil Unrest**: No one may enter this country for the rest of the game.  Anyone with destination cards here must exchange them for random cards of the same colour.
+- (E) **Communist Revolution**: This country joins the Warsaw Pact.  If it was already WP, choose a neighbouring country to become WP as well.
+- (E) **Summit**: Each player must visit this city before they can hand in any more destination cards.
+- (E) **Chernobyl Disaster**: This city is nuked.  Stick a green sticker on it and move to an adjacent city.
+- (E) **Exit**: This country leaves the EU.  Stick a yellow sticker on it.  If it was already non-EU, choose an EU country to leave.
+- (E) **Brexit**: The UK votes to leave the EU.  Either put a yellow sticker on it, or ignore the will of the people and take another Event card.
+- (E) **UK Invades Faroe Islands**: All sea routes in the Northwest quarter of the board cost double for the rest of this game.
+- (E) **Royal Navy Attempts Invasion**: All sea routes connected to this country are blocked for the rest of this game.
+- (E) **Ancient Ruins Discovered**: All other players must visit this city before they can win, as an extra destination.
+- (E) **London Olympics**: All players must visit London before they can win, as an extra destination.
+- (E) **Eurovision Song Contest**: This country has won, after all its neighbours voted for it!  Add 1 to all rolls made in this country and its neighbours for the rest of the game.
+- (E) **Flight Diverted**: Each player chooses up to 2 destination cards (not your home city) to pass to the player on their left.
+- (E) **Pandemic**: Each time *you* end your turn in a city, place a disease token (red cube) there.  Each time *another* player moves into or through an infected city, you get an extra movement point on your next turn.
+- (E) **Giant Portuguese Chicken Begins Rampage**: Add a red cube to Lisbon for the giant chicken.  At end of each player's turn, they move the chicken along one land or sea route.  If the chicken _moves onto_ a city occupied by a player, that player misses 3 turns.
+- (E) **Holiday Romance**: Fall in love with a player of your choice.  Move to their space now, and remove their home marker.  You will now travel together on your turn and theirs.  To win, you must visit all destinations you both have, and return to your home -- the win is shared!
+- (E) **Tour de France**: Cost of all road movement in France is doubled, and French railways are unusable, for the rest of the game.  The first player to travel from Strasbourg to Marseilles to Bordeaux to Paris, all by road, may hand in any 3 destination cards for free (not their home city).
+- (E) **Redistribution of Wealth**: All destination cards in all players' hands are shuffled together and dealt out clockwise starting to the left of the current player.
+- (E) **Capitalism is Unfair**: Whoever has fewest destination cards gives one to another player.  In case of a tie, all tied players do so.
+- (E) **French Train Drivers' Strike**: Any rail routes that are connected to by rail France are unusable for the rest of the game.  They act as normal roads.
+- (E) **Puncture**: Keep this card.  After a player makes a move entirely by road, you may discard this card to undo that move and make them miss their turn instead.
+- (E) **Independence**: Choose one of the following countries to become independent:
+    - Scotland (Glasgow, Inverness, Aberdeen, Shetland)
+    - Catalonia (Barcelona)
+    - Bavaria (Munich, Nuremberg)
+  Use a permanent marker to draw in the border, and add a country code (SC, CA or BY).  Destroy this card.
+- (E) **Flightpath Hackers**: For the rest of the game, if a player flies, they roll a die: if 1 or 2, the player to their left chooses any airport on the board, and they land there.
 
-- French train drivers strike
-
-- Taken?
-  * Have to save kidnapped travelling companion
-- Puncture
-  * Car journey cut short
-  * Might be a card thar you can play on someone else
- - London Olympics
-   * Everyone must visit London in that game
- - AC/DC
+- ~~Animal escapes from zoo~~
+- ~~Taken: Have to save kidnapped travelling companion~~

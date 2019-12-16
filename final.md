@@ -8,11 +8,6 @@ If you want to play without spoilers, **stop reading now**.  Ask a friend who do
 
 
 
-## TODOs for this document
-- Change ENV_ codes to simple letters
-
-
-
 ## What you'll need ##
 - 1 copy of _Journey Through Europe_
     - These instructions are based on the most common version, published by Ravensburger in the early 1980s, in a yellow-and-blue box, easily available on eBay
@@ -21,7 +16,7 @@ If you want to play without spoilers, **stop reading now**.  Ask a friend who do
 - Red, blue, yellow and green stickers (little round ones)
 - Some sturdy A4 card
 - Black permanent marker
-- Small tokens (e.g. disease tokens from Pandemic)
+- About 40 small red cubes (e.g. disease tokens from Pandemic)
 
 
 
@@ -90,41 +85,24 @@ You can ignore this section and go onto making the envelopes, starting with **En
 
 This is a tree showing which envelopes can be opened once a given envelope is opened.
 
-- A
-    - ENV_CHARACTERS
-        - ENV_EVENTS
-            - ENV_RAIL
-            - ENV_BREAKUP1
-                - ENV_BREAKUP2
-        - ENV_IRONCURTAIN
-            - ENV_NATOWINS
-                - ENV_ROGUEREDSTATE
-                    - ENV_NUCLEARREDSTATE
-                        - ENV_NUKEDCITIES
-            - ENV_WPWINS
-                - ENV_ROGUEBLUESTATE
-                    - ENV_NUCLEARBLUESTATE
-                        - (ENV_NUKEDCITIES)
-            - ENV_AFRICA
-    - ENV_GLOBALWARMING1
-        - ENV_GLOBALWARMING2
-
-B ENV_IRONCURTAIN
-C ENV_BREAKUP2
-D ENV_ROGUEREDSTATE
-E ENV_RAIL
-F ENV_BREAKUP1
-G ENV_GLOBALWARMING1
-H ENV_ROGUEBLUESTATE
-I ENV_EVENTS
-J ENV_CHARACTERS
-K ENV_WPWINS
-L ENV_AFRICA
-M ENV_NUCLEARBLUESTATE
-N ENV_NUCLEARREDSTATE
-O ENV_GLOBALWARMING2
-P ENV_NUKEDCITIES
-Q ENV_NATOWINS
+- A (New rules)
+    - J (Characters)
+        - I (Events)
+            - E (Rail)
+            - F (Breakup 1)
+                - C (Breakup 2)
+        - B (Iron Curtain)
+            - Q (NATO wins)
+                - D (Rogue red state)
+                    - N (Nuclear red state)
+                        - P (Nuked cities)
+            - K (WP wins)
+                - H (Rogue blue state)
+                    - M (Nuclear blue state)
+                        - (P (Nuked cities))
+            - L (Africa)
+    - G (Global warming 1)
+        - O (Global warming 2)
 
 
 
@@ -149,12 +127,12 @@ To get you started, draw **two** Rules cards right now, follow their instruction
   - Do the same for green cards, and then for yellow.
   - No looking at the instructions on the backs of cards!
 - (R) **Borders**: Moving from one country to another costs 1 additional movement point (even on ships and planes).
-- (R) **Characters**: Open Envelope ENV_CHARACTERS.  Destroy this card.
-- (R) **Footprint**: Open Envelope ENV_GLOBALWARMING1.  Destroy this card.
+- (R) **Characters**: Open Envelope J.  Destroy this card.
+- (R) **Footprint**: Open Envelope G.  Destroy this card.
 
 
 
-## Envelope ENV_CHARACTERS ##
+## Envelope J ##
 ### Instructions sheet ###
 _Characters_
 
@@ -204,12 +182,12 @@ If this was an even-numbered game, then take new Special Ability cards as descri
 - (A) **Lover**: Whenever you are in the same city as another player (even passing through), that player follows you for this and your next turn, missing their own turns in these rounds.
 - (A) **Rockstar**: Before rolling for your movement, you may choose to double your roll.  You move, but the player to your left then rolls and moves for you, before taking their own turn.
 
-- (R) **Events**: Open Envelope ENV_EVENTS.  Destroy this card.
-- (R) **The Iron Curtain**: Open Envelope ENV_IRONCURTAIN.  Destroy this card.
+- (R) **Events**: Open Envelope I.  Destroy this card.
+- (R) **The Iron Curtain**: Open Envelope B.  Destroy this card.
 
 
 
-## Envelope ENV_EVENTS ##
+## Envelope I ##
 ### Instructions sheet
 _Events_
 
@@ -229,7 +207,7 @@ This envelope also contains one Rules card.  Shuffle it carefully into the deck 
 
 ### Cards to include ###
 
-- (E) **Breakup of...**: If this country has only one city, return this card to the deck and do nothing.  Otherwise, open Envelope ENV_BREAKUP1 and destroy this card.
+- (E) **Breakup of...**: If this country has only one city, return this card to the deck and do nothing.  Otherwise, open Envelope F and destroy this card.
 - (E) **Lost Luggage**: No one may hand in any more destination cards until they revisit the last destination they handed in (or their home city if they haven't handed in any).
 - (E) **New Airport**: Add an airport to this city, if there is not one here already.
 - (E) **Ash Cloud**: Flying is not allowed for the rest of this game.
@@ -252,25 +230,25 @@ This envelope also contains one Rules card.  Shuffle it carefully into the deck 
   Use a permanent marker to draw in the border, and add a country code (SC, CA or BY).  Destroy this card.
 - (E) **Flightpath Hackers**: For the rest of the game, if a player flies, they roll a die: if 1 or 2, the player to their left chooses any airport on the board, and they land there.
 
-- (R) **High Speed Rail**: Open Envelope ENV_RAIL.  Destroy this card.
+- (R) **High Speed Rail**: Open Envelope E.  Destroy this card.
 
 
 
-## Envelope ENV_GLOBALWARMING1 ##
+## Envelope G ##
 ### Instructions sheet ###
 _Footprint_
 
 Add the following label to the board somewhere over the compass in the Arctic Ocean:
 
-> _(Picture of a thermometer composed of 100 boxes)_ When all boxes are filled, open Envelope ENV_GLOBALWARMING2.
+> _(Picture of a thermometer composed of 100 boxes)_ When all boxes are filled, open Envelope O.
 
 And add the following label to the Rules Sheet:
 
-> Each time a player takes a flight, fill in one box with initials identifying that player's character. [ENV_GLOBALWARMING1]
+> Each time a player takes a flight, fill in one box with initials identifying that player's character. [G]
 
 
 
-## Envelope ENV_GLOBALWARMING2 ##
+## Envelope O ##
 ### Instructions sheet ###
 _Global Warming_
 
@@ -293,7 +271,7 @@ Any player currently in a flooded city evacuates to the nearest unflooded city.
 Examine the boxes on the thermometer to see which character took the most flights.  Stick the following label to their Character Sheet, in the area marked "Leave this area blank":
 > **Polluter**: Each time you move into a city adjacent to a flooded city, roll a die: on a 1, the inhabitants attack you and you skip the rest of your turn.
 
-All players vote on which of the following two labels should be added to the Rules Sheet over the label marked [ENV_GLOBALWARMING1]:
+All players vote on which of the following two labels should be added to the Rules Sheet over the label marked [G]:
 
 > Each player may take only one flight per game.
 
@@ -308,7 +286,7 @@ Shuffle the enclosed Special Ability card into the Special Ability deck, without
 
 
 
-## Envelope ENV_RAIL ##
+## Envelope E ##
 ### Instructions sheet ###
 _High Speed Rail_
 
@@ -334,7 +312,7 @@ Add the enclosed cards to the Event deck and Special Abilities deck as appropria
 
 
 
-## Envelope ENV_IRONCURTAIN ##
+## Envelope B ##
 ### Instructions sheet ###
 _The Iron Curtain_
 
@@ -379,11 +357,11 @@ Every country on the board is now part of one of three factions: NATO, the Warsa
 
 Stick the following labels to the Rules Sheet:
 
-> Each country belongs to a faction denoted by its coloured sticker: blue for NATO, red for WP, and yellow for non-aligned. [ENV_IRONCURTAIN]
+> Each country belongs to a faction denoted by its coloured sticker: blue for NATO, red for WP, and yellow for non-aligned. [B]
 
-> You may not move directly between NATO countries and WP countries.  This includes flights and sea routes. [ENV_IRONCURTAIN]
+> You may not move directly between NATO countries and WP countries.  This includes flights and sea routes. [B]
 
-> **Exception**: You may fly from West Germany to Berlin, but must then fly back to West Germany before any further movement. [ENV_IRONCURTAIN]
+> **Exception**: You may fly from West Germany to Berlin, but must then fly back to West Germany before any further movement. [B]
 
 Add the following label to the board somewhere over the compass in the Arctic Ocean:
 
@@ -391,12 +369,12 @@ Add the following label to the board somewhere over the compass in the Arctic Oc
 
 And add the following label to the Rules Sheet:
 
-> At the end of each game, if the winner's home was in a NATO or WP country, put a cross in the corresponding column on the board.  If all 3 NATO ($) boxes are filled, open Envelope ENV_NATOWINS.  If all 3 WP (☭) boxes are filled, open Envelope ENV_WPWINS. [ENV_IRONCURTAIN]
+> At the end of each game, if the winner's home was in a NATO or WP country, put a cross in the corresponding column on the board.  If all 3 NATO ($) boxes are filled, open Envelope Q.  If all 3 WP (☭) boxes are filled, open Envelope K. [B]
 
 Shuffle the enclosed cards into the appropriate decks, without looking at them.
 
 ### Cards to include ###
-Write the letter "ENV_IRONCURTAIN" somewhere subtle on the back of each of the Special Ability and Event cards.
+Write the letter "B" somewhere subtle on the back of each of the Special Ability and Event cards.
 
 - (A) **Diplomat**: You can move between NATO and WP countries.
 - (A) **Revolutionary**: Once per game, you may change the faction of the country you are in to that of a neighbouring country.
@@ -405,13 +383,13 @@ Write the letter "ENV_IRONCURTAIN" somewhere subtle on the back of each of the S
 - (E) **Swiss Imports**: This country becomes non-aligned.  If it was already non-aligned, choose a neighbouring country to become non-aligned as well.
 - (E) **Communist Revolution**: This country joins the Warsaw Pact.  If it was already WP, choose a neighbouring country to become WP as well.
 
-- (R) **Journey Through Africa**: Open Envelope ENV_AFRICA.  Destroy this card.
+- (R) **Journey Through Africa**: Open Envelope L.  Destroy this card.
 
 _(include all the blue, red, yellow stickers in this envelope)_
 
 
 
-## Envelope ENV_NATOWINS ##
+## Envelope Q ##
 ### Instructions sheet ###
 _The Fall of Communism_
 
@@ -421,7 +399,7 @@ The Warsaw Pact no longer exists.  All WP countries immediately become non-align
 
 Blue stickers now denote EU members, while yellow stickers denote non-members.
 
-Stick the following labels to the Rules Sheet, covering all the labels marked with [ENV_IRONCURTAIN]:
+Stick the following labels to the Rules Sheet, covering all the labels marked with [B]:
 > Each country belongs to a faction denoted by its coloured sticker: blue for EU, and yellow for non-EU.
 
 > There is no border penalty for moving between EU countries.
@@ -430,16 +408,16 @@ Stick the following labels to the Rules Sheet, covering all the labels marked wi
 
 > _(One blank label)_
 
-Shuffle the enclosed Event cards into Event deck, without looking at them.  Destroy all Event and Special Ability cards with a letter "ENV_IRONCURTAIN" on the back.
+Shuffle the enclosed Event cards into Event deck, without looking at them.  Destroy all Event and Special Ability cards with a letter "B" on the back.
 
 ### Cards to include ###
-- (E) **Rogue State**: Open Envelope ENV_ROGUEREDSTATE.  Destroy this card.
+- (E) **Rogue State**: Open Envelope D.  Destroy this card.
 - (E) **Exit**: This country leaves the EU.  Stick a yellow sticker on it.  If it was already non-EU, choose an EU country to leave.
 - (E) **Brexit**: The UK votes to leave the EU.  Either put a yellow sticker on it, or ignore the will of the people and take another Event card.
 - (E) **Capitalism is Unfair**: Whoever has fewest destination cards gives one to another player.  In case of a tie, all tied players do so.
 
 
-## Envelope ENV_WPWINS ##
+## Envelope K ##
 ### Instructions sheet ###
 _The Fall of Capitalism_
 
@@ -451,7 +429,7 @@ NATO no longer exists.  All NATO countries immediately become non-aligned -- add
 
 Red stickers now denote the Soviet Empire, while yellow stickers denote the countries that remain non-aligned.
 
-Stick the following labels to the Rules Sheet, covering all the labels marked with [ENV_IRONCURTAIN]:
+Stick the following labels to the Rules Sheet, covering all the labels marked with [B]:
 > Each country belongs to a faction denoted by its coloured sticker: red for members of the Soviet Empire (SE), and yellow for non-aligned countries. 
 
 > In each game, each player whose home is in a SE country must visit Moscow before they can win, as if they have it as an extra destination card.
@@ -465,11 +443,11 @@ Since this is the end of a game, 2 countries are invaded right now.
 Shuffle the enclosed Event cards into the Event deck, without looking at them.
 
 ### Cards to include ###
-- (E) **Rogue State**: Open Envelope ENV_ROGUEBLUESTATE.  Destroy this card.
+- (E) **Rogue State**: Open Envelope H.  Destroy this card.
 - (E) **Redistribution of Wealth**: All destination cards in all players' hands are shuffled together and dealt out clockwise starting to the left of the current player.
 
 
-## Envelope ENV_ROGUEREDSTATE
+## Envelope D
 ### Instructions sheet ###
 _Rogue State_
 
@@ -477,21 +455,21 @@ A regime change in this country has taken the world by surprise.  Nobody expecte
 
 Put a red sticker on the country you are currently in, replacing its yellow or blue sticker.  Stick the following label to the Rules Sheet:
 
-> A red sticker denotes a Rogue Communist State. [ENV_ROGUEREDSTATE]
+> A red sticker denotes a Rogue Communist State. [D]
 
-> If a player with their home in a non-EU state hands in a destination card in a Rogue Communist State, that player rolls a die.  If they roll less than __, open Envelope ENV_NUCLEARREDSTATE.
-[ENV_ROGUEREDSTATE]
+> If a player with their home in a non-EU state hands in a destination card in a Rogue Communist State, that player rolls a die.  If they roll less than __, open Envelope N.
+[D]
 
 Fill in the blank on the label with a number computed as follows: 30 divided by the number of cities in this country, rounded up.
 
 
 
-## Envelope ENV_ROGUEBLUESTATE
-_(As ENV_ROGUEREDSTATE, but swapping red for blue, Communist for Fascist, etc.)_
+## Envelope H
+_(As D, but swapping red for blue, Communist for Fascist, etc.)_
 
 
 
-## Envelope ENV_NUCLEARREDSTATE
+## Envelope N
 ### Instructions sheet ###
 _Missile Crisis_
 
@@ -533,23 +511,23 @@ If the rogue player ran out first, then the Rogue Communist State becomes non-al
 If the EU ran out first, then put a red sticker on the invaded country, which is now a puppet.
 If both sides ran out on the same turn, then neither of these things happens.
 
-Stick the following blank labels over the labels marked [ENV_ROGUEREDSTATE]:
+Stick the following blank labels over the labels marked [D]:
 
 > _(Include 2 blank labels)_
 
-After the war is over, remove all remaining weapons from the board and open Envelope ENV_NUKEDCITIES.
+After the war is over, remove all remaining weapons from the board and open Envelope P.
 
 ### Other components to include ###
 _(Include at least 35 green stickers in this envelope)_
 
 
 
-## Envelope ENV_NUCLEARBLUESTATE
-_(As ENV_NUCLEARREDSTATE, but swapping red for blue, EU for SE, Communist for Fascist, etc.)_
+## Envelope M
+_(As N, but swapping red for blue, EU for SE, Communist for Fascist, etc.)_
 
 
 
-## Envelope ENV_NUKEDCITIES ##
+## Envelope P ##
 ### Instructions sheet ###
 _Nuclear Fallout_
 
@@ -572,32 +550,32 @@ Shuffle the enclosed Event card into the Event decks, without looking at it.
 
 
 
-## Envelope ENV_BREAKUP1 ##
+## Envelope F ##
 ### Instructions sheet ###
 _Breakup of..._
 
 Throughout the many years of this multi-ethnic, multi-cultural country's existence, various peoples and regions have longed for control over their own destiny, as they once had.  Now, triggered by an economic crisis, several factions have risen up and are demanding independence.  The government response has been swift and brutal, and the country has entered a state of civil war, with the rule of law breaking down almost entirely.
 
 Stick the following labels to the Rules Sheet, and fill in the blanks with the name of the country you are currently in:
-> ______ is at civil war.  Travelling into a city that is or was in ______ costs one additional movement point, even if you are just passing through. [ENV_BREAKUP1]
+> ______ is at civil war.  Travelling into a city that is or was in ______ costs one additional movement point, even if you are just passing through. [F]
 
-> Each time a player hands in a destination card in a city that is or was in ______, that player rolls a die.  On a 6, the civil war is over and you should open Envelope ENV_BREAKUP2.  On any other number, the country you are in splits. [ENV_BREAKUP1]
+> Each time a player hands in a destination card in a city that is or was in ______, that player rolls a die.  On a 6, the civil war is over and you should open Envelope C.  On any other number, the country you are in splits. [F]
 
-> When a country *splits*, draw a line through it in permanent marker, with half the cities on one side and half the cities on the other (or as near as possible).  These are now two totally separate countries, and border rules apply. [ENV_BREAKUP1]
+> When a country *splits*, draw a line through it in permanent marker, with half the cities on one side and half the cities on the other (or as near as possible).  These are now two totally separate countries, and border rules apply. [F]
 
-> Each new country could be split again on a later turn.  If a country has only one city, it cannot be split. [ENV_BREAKUP1]
+> Each new country could be split again on a later turn.  If a country has only one city, it cannot be split. [F]
 
-> The exact status of these countries will be determined once the war is over.  For now, they are part of the same faction as ______. [ENV_BREAKUP1]
+> The exact status of these countries will be determined once the war is over.  For now, they are part of the same faction as ______. [F]
 
 
 
-## Envelope ENV_BREAKUP2 ##
+## Envelope C ##
 ### Instructions sheet ###
 _Former ______ Republics_
 
 The civil war in this region is over!  Perhaps it ended before too long; perhaps there are now a *lot* of new countries for children to learn.
 
-Cover up all the labels on the Rules Sheet marked [ENV_BREAKUP1] with the blank labels included here.  These countries will not split up any more.
+Cover up all the labels on the Rules Sheet marked [F] with the blank labels included here.  These countries will not split up any more.
 
 It's time to give the new countries names!  One country should have the original country abbreviation that was marked on the board: this has the same name as the original country.  All the other countries should now be given names: think of some together, and write abbreviations for them on the board in black circles.  Now put a yellow sticker on all new countries to denote their non-aligned status.
 
@@ -611,7 +589,7 @@ Look at the included Special Ability card, fill in the blank with the original n
 5 blank labels
 
 
-## Envelope ENV_AFRICA ##
+## Envelope L ##
 ### Instructions sheet ###
 _Journey Through Africa_
 

@@ -25,12 +25,12 @@ If you want to play without spoilers, **stop reading now**.  Ask a friend who do
     - An A5 sheet with an introduction to the game
 - [Clarifications](#Clarifications) sheet
     - An A5 sheet with clarifications to the original rulebook
-- Rules sheet
-    - An A4 piece of sturdy card, with the title "Rules Sheet" and the rest of it blank
+- Rules Sheet
+    - An A4 piece of sturdy card, with the title "Rules Sheet" and a "Hall of Fame" section for game winners
 - Envelopes
     - Small sealed envelopes, marked with letters A to Q, to be opened as the game proceeds
     - Each envelope is explained below in its own section.
-    - Each envelope includes an **Instruction sheet**, which will be an A4 or A5 sheet with instructions to the player.  Print this sheet verbatim, but where you see quote sections, these should be printed onto labels stuck to the page with double-sided sticky tape, so that players can peel them off and stick them to the Rules Sheet.
+    - Each envelope includes an **Instructions sheet**, which will be an A4 or A5 sheet with instructions to the player.  Print this sheet verbatim, but where you see quote sections, these should be printed onto labels stuck to the page with double-sided sticky tape, so that players can peel them off and stick them to the Rules Sheet.
     - Each envelope may also contain some cards or other components, which should be included as well (usually in a plastic bag so players don't look at them straight away).
     - Cards to be included will start with (R) or (E) or (A), denoting what type of card they are...
 - Cards (included in envelopes)
@@ -38,8 +38,9 @@ If you want to play without spoilers, **stop reading now**.  Ask a friend who do
         - These will usually have a label attached to them with double-sided sticky tape, to be peeled off and stuck to the Rules Sheet.
     - Event cards (E)
     - Special Ability cards (A)
-        - These will usually have a label attached to them with double-sided sticky tape, to be peeled off and stuck to a character card.
-- Character sheets (included in one of the envelopes)
+        - These will usually have a label attached to them with double-sided sticky tape, to be peeled off and stuck to a Character Sheet.
+- Character Sheets (included in one of the envelopes)
+    - A piece of sturdy card, probably the size of the flight plans in the original game.
 
 
 
@@ -56,7 +57,7 @@ You may want to play multiple times with the same group of players; however, if 
 
 New rules and features will be introduced over time through the envelopes that are included.  When you open an envelope, read the instructions on the folded piece of paper inside, but don't look at anything else unless instructed to!
 
-Start by reading the original rules and playing a game of _Journey Through Europe_.  As soon as you're finished, write the name of the winner on the Rules sheet, then open Envelope A and follow the instructions inside!
+Start by reading the original rules and playing a game of _Journey Through Europe_.  As soon as you're finished, write the name of the winner on the Rules Sheet in the Hall of Fame, then open Envelope A and follow the instructions inside!
 
 
 
@@ -86,6 +87,7 @@ You can ignore this section and go onto making the envelopes, starting with **En
 This is a tree showing which envelopes can be opened once a given envelope is opened.
 
 - A (New rules)
+    - R (Drafting destinations)
     - J (Characters)
         - I (Events)
             - E (Rail)
@@ -104,6 +106,8 @@ This is a tree showing which envelopes can be opened once a given envelope is op
     - G (Global warming 1)
         - O (Global warming 2)
 
+The letters are deliberately in a shuffled order.
+
 
 
 ## Envelope A ##
@@ -112,25 +116,42 @@ _New Rules_
 
 Europe has never stood still, and neither do the rules of _Journey Through Europe: Legacy_.  Included in this envelope are several Rules cards.  Don't look at these cards yet!  Shuffle them (gently) and keep them available as a deck.
 
-At various times, you will draw new Rules cards from the deck, and carry out their instructions.  This will usually include adding new rules to the Rules sheet (included in the box) by sticking a label to it.  Rules that are visible on the Rules sheet are additional rules that you have to follow when playing.
+At various times, you will draw new Rules cards from the deck, and carry out their instructions.  This will usually include adding new rules to the Rules Sheet (included in the box) by sticking a label to it.  Rules that are visible on the Rules Sheet are additional rules that you have to follow when playing.
 
-Start by sticking the following label to the Rules sheet:
-> At the end of each game, draw one Rules cards from the deck (if there is one), follow its instructions, and then destroy it.
+Start by sticking the following label to the Rules Sheet:
+
+> At the end of each game, draw one Rules cards from the deck (if there is one).  Stick the included label to the Rules Sheet, or follow the instructions.
 
 To get you started, draw **two** Rules cards right now, follow their instructions, and destroy them.
 
+Stick the following label to the Rules sheet as well:
+
+> If you finish a game and there are fewer than 5 envelopes left unopened, you are close to the end.  Play another 3 games, and the series winner is whoever has the most wins in the Hall of Fame at the end!
+
 ### Cards to include ###
 - (R) **Faster ships**: Sea routes work the same as land routes, but cost 2 points.
-- (R) **Drafting destinations**: Instead of dealing destinations randomly, distribute them with 3 drafts.
-  - Determine home cities as normal.
-  - Deal 3 red cards to each player: each player chooses one and passes the rest to their left, repeatedly until each player has chosen 3 cards.
-  - Do the same for green cards, and then for yellow.
-  - No looking at the instructions on the backs of cards!
+- (R) **Drafting Destinations**: Open Envelope R.  Destroy this card.
 - (R) **Borders**: Moving from one country to another costs 1 additional movement point (even on ships and planes).
 - (R) **Characters**: Open Envelope J.  Destroy this card.
 - (R) **Footprint**: Open Envelope G.  Destroy this card.
 
 
+
+## Envelope R ##
+### Instructions sheet ###
+_Drafting Destinations_
+
+No one travels around Europe at random.  We all have choice over where we want to go and what we want to see!  It's time to start choosing our destinations instead of just taking what we're given.
+
+Stick the following labels to the Rules Sheet:
+
+> Instead of dealing destinations randomly, distribute them with 3 drafts.  First, determine home cities as normal.
+
+> Then deal 3 red cards to each player: each player chooses one and passes the rest to their left, repeatedly until each player has chosen 3 cards.
+
+> Do the same for green cards, and then for yellow.  No looking at the instructions on the backs of cards!
+
+> Each player should end up with their home city, plus 3 destinations of each colour.
 
 ## Envelope J ##
 ### Instructions sheet ###
@@ -142,7 +163,7 @@ First, this envelope contains some Rules cards.  Shuffle them carefully into the
 
 Next, examine the Character Sheets included in this envelope.  Take the one that corresponds to your piece colour from the last game, and give the character a name.
 
-Stick the following labels to your Rules sheet:
+Stick the following labels to your Rules Sheet:
 > At the beginning of each game, each player chooses a character, clockwise starting with the player to the left of the dealer (do this after home cities are determined, but before other destinations are distributed).  This character determines your special abilities and piece colour for the game.
 
 > If you have more players than usual, you may need to create a new character.  If it is your turn to choose a character, but all Character Sheets have already been chosen, take an unused Character Sheet from the box, give it a name, and take Special Abilities equal to the number on each other character, plus one.  Choose one card to return to the deck, and stick the rest to the new Character Sheet.
@@ -367,7 +388,7 @@ Add the following label to the board somewhere over the compass in the Arctic Oc
 
 > _(2 columns of 3 boxes, the left one marked with a dollar $, and the right one marked with a hammer-and-sickle ☭)_
 
-And add the following label to the Rules Sheet:
+And add the following labels to the Rules Sheet:
 
 > At the end of each game, if the winner's home was in a NATO or WP country, put a cross in the corresponding column on the board.  If all 3 NATO ($) boxes are filled, open Envelope Q.  If all 3 WP (☭) boxes are filled, open Envelope K. [B]
 

@@ -33,7 +33,7 @@ If you want to play without spoilers, **stop reading now**.  Ask a friend who do
 - Rules sheet
     - An A4 piece of sturdy card, with the title "Rules Sheet" and the rest of it blank
 - Envelopes
-    - Small sealed envelopes, marked with letters A to M(TODO), to be opened as the game proceeds
+    - Small sealed envelopes, marked with letters A to Q, to be opened as the game proceeds
     - Each envelope is explained below in its own section.
     - Each envelope includes an **Instruction sheet**, which will be an A4 or A5 sheet with instructions to the player.  Print this sheet verbatim, but where you see quote sections, these should be printed onto labels stuck to the page with double-sided sticky tape, so that players can peel them off and stick them to the Rules Sheet.
     - Each envelope may also contain some cards or other components, which should be included as well (usually in a plastic bag so players don't look at them straight away).
@@ -90,7 +90,7 @@ You can ignore this section and go onto making the envelopes, starting with **En
 
 This is a tree showing which envelopes can be opened once a given envelope is opened.
 
-- Envelope A
+- A
     - ENV_CHARACTERS
         - ENV_EVENTS
             - ENV_RAIL
@@ -108,6 +108,23 @@ This is a tree showing which envelopes can be opened once a given envelope is op
             - ENV_AFRICA
     - ENV_GLOBALWARMING1
         - ENV_GLOBALWARMING2
+
+B ENV_IRONCURTAIN
+C ENV_BREAKUP2
+D ENV_ROGUEREDSTATE
+E ENV_RAIL
+F ENV_BREAKUP1
+G ENV_GLOBALWARMING1
+H ENV_ROGUEBLUESTATE
+I ENV_EVENTS
+J ENV_CHARACTERS
+K ENV_WPWINS
+L ENV_AFRICA
+M ENV_NUCLEARBLUESTATE
+N ENV_NUCLEARREDSTATE
+O ENV_GLOBALWARMING2
+P ENV_NUKEDCITIES
+Q ENV_NATOWINS
 
 
 

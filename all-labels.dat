@@ -1,0 +1,7 @@
+\input{instructions.dat}
+
+\input{abilities.dat}
+
+\input{events.dat}
+
+\input{rules.dat}

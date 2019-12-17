@@ -488,12 +488,11 @@ _Rogue State_
 
 A regime change in this country has taken the world by surprise.  Nobody expected the recent elections to deliver such radical results, and now hopes of a return to normality have been dashed as extreme paramilitaries sieze the capital in a military coup.  With the alleged support of the people, the new regime declares a state of emergency, executing former leaders, seizing property, and beginning a weapons programme unprecedented in the modern age.  All borders are closed, and foreign governments look on with apprehension.
 
-Put a red sticker on the country you are currently in, replacing its yellow or blue sticker.  Stick the following label to the Rules Sheet:
+Put a red sticker on the country you are currently in, replacing its yellow or blue sticker.  Stick the following labels to the Rules Sheet:
 
 > A red sticker denotes a Rogue Communist State.
 
-> If a player with their home in a non-EU state hands in a destination card in a Rogue Communist State, that player rolls a die.  If they roll less than __, open Envelope N.
-[D]
+> If a player with their home in a non-EU state hands in a destination card in a Rogue Communist State, that player rolls a die.  If they roll less than __, open Envelope N. [D]
 
 Fill in the blank on the label with a number computed as follows: 30 divided by the number of cities in this country, rounded up.
 

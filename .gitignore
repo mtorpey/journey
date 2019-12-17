@@ -1,4 +1,7 @@
 *.aux
 *.log
+*.lua
+*.out
 svg-inkscape/
+*/_markdown_sheets/
 *.pdf

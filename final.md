@@ -2,9 +2,13 @@
 
 This document contains instructions for preparing a "legacy" version of the board game _Journey Through Europe_.  By "legacy", we mean an extended version of the game that changes each time you play, permanently affecting the rules, board and story.
 
-Preparation mainly consists of writing cards and labels and sealing them in envelopes for the players to open at the appropriate times.  The rules are not revealed to players at the beginning, but are added gradually over about 10 games.
+Preparation mainly consists of preparing cards and labels and sealing them in envelopes for the players to open at the appropriate times.  The rules are not revealed to players at the beginning, but are added gradually over about 12 games.
 
 If you want to play without spoilers, **stop reading now**.  Ask a friend who doesn't want to play, or who doesn't care about spoilers, to follow these instructions for you.
+
+Michael Torpey, 2019
+
+mctorpey@gmail.com
 
 
 
@@ -14,7 +18,7 @@ If you want to play without spoilers, **stop reading now**.  Ask a friend who do
 - Blank white cards
 - Lots of 64mm×34mm labels
 - Red, blue, yellow and green stickers (little round ones)
-- Some sturdy A4 card
+- A few sheets of sturdy A4 card
 - Black permanent marker
 - About 40 small red cubes (e.g. disease tokens from Pandemic)
 
@@ -28,7 +32,7 @@ If you want to play without spoilers, **stop reading now**.  Ask a friend who do
 - Rules Sheet
     - An A4 piece of sturdy card, with the title "Rules Sheet" and a "Hall of Fame" section for game winners
 - Envelopes
-    - Small sealed envelopes, marked with letters A to Q, to be opened as the game proceeds
+    - Small sealed envelopes, marked with letters A to R, to be opened as the game proceeds.
     - Each envelope is explained below in its own section.
     - Each envelope includes an **Instructions sheet**, which will be an A4 or A5 sheet with instructions to the player.  Print this sheet verbatim, but where you see quote sections, these should be printed onto labels stuck to the page with double-sided sticky tape, so that players can peel them off and stick them to the Rules Sheet.
     - Each envelope may also contain some cards or other components, which should be included as well (usually in a plastic bag so players don't look at them straight away).
@@ -41,6 +45,8 @@ If you want to play without spoilers, **stop reading now**.  Ask a friend who do
         - These will usually have a label attached to them with double-sided sticky tape, to be peeled off and stuck to a Character Sheet.
 - Character Sheets (included in one of the envelopes)
     - A piece of sturdy card, probably the size of the flight plans in the original game.
+    - Four label-sized areas for Special Ability labels.
+    - Another label-sized area marked "Leave this area empty". 
 
 
 
@@ -53,7 +59,7 @@ A game for 3--6 players
 
 This box contains everything you need to play _Journey Through Europe: Legacy_, a customised version of the original board game _Journey Through Europe_ that changes each time you play, permanently affecting the rules, board and story.
 
-You may want to play multiple times with the same group of players; however, if some players leave or new players join between games, this shouldn't be a problem.  The game should be playable with only 2 players, but 3--6 is recommended.  The full saga should last around 12 games, and you will be left with a dramatically changed game, and a board quite different from anything Ravensburger intended.
+You may want to play multiple times with the same group of players; however, if some players leave or new players join between games, this shouldn't be a problem.  The game should be playable with only 2 players, but 3--6 is recommended.  The full saga should last around 12 games, and you will be left with dramatically changed rules and a board quite different from anything Ravensburger intended.
 
 New rules and features will be introduced over time through the envelopes that are included.  When you open an envelope, read the instructions on the folded piece of paper inside, but don't look at anything else unless instructed to!
 
@@ -65,7 +71,7 @@ Start by reading the original rules and playing a game of _Journey Through Europ
 _(Print on A5 and include next to original rulebook)_
 
 Some of the original rules of _Journey Through Europe_ are a little unclear.  We've made some of the ambiguities clear, so that in the Legacy version you always know exactly what you're supposed to be doing.  If anything is unclear, check below:
-- A "route" will be defined as a single line linking 2 cities on the board (not passing through any others).
+- A "route" will be defined as a line linking 2 cities on the board (not passing through any others).  Some are road routes, some are sea routes.
 - You can stop moving before moving the full number you rolled, or even make no move at all.
 - Your destination cards are public and should be clearly displayed.
 - You shouldn't look at the instructions on your destination cards until you reach the destination.
@@ -122,7 +128,7 @@ Start by sticking the following label to the Rules Sheet:
 
 > At the end of each game, draw one Rules cards from the deck (if there is one).  Stick the included label to the Rules Sheet, or follow the instructions.
 
-To get you started, draw **two** Rules cards right now, follow their instructions, and destroy them.
+To get you started, draw **two** Rules cards right now, and stick their labels to the Rules Sheet or follow their instructions.
 
 Stick the following label to the Rules sheet as well:
 
@@ -149,9 +155,11 @@ Stick the following labels to the Rules Sheet:
 
 > Then deal 3 red cards to each player: each player chooses one and passes the rest to their left, repeatedly until each player has chosen 3 cards.
 
-> Do the same for green cards, and then for yellow.  No looking at the instructions on the backs of cards!
+> Do the same for green cards, and then for yellow.  Each player should end up with their home city, plus 3 destinations of each colour.
 
-> Each player should end up with their home city, plus 3 destinations of each colour.
+> No looking at the instructions on the backs of cards!
+
+
 
 ## Envelope J ##
 ### Instructions sheet ###
@@ -166,11 +174,11 @@ Next, examine the Character Sheets included in this envelope.  Take the one that
 Stick the following labels to your Rules Sheet:
 > At the beginning of each game, each player chooses a character, clockwise starting with the player to the left of the dealer (do this after home cities are determined, but before other destinations are distributed).  This character determines your special abilities and piece colour for the game.
 
-> If you have more players than usual, you may need to create a new character.  If it is your turn to choose a character, but all Character Sheets have already been chosen, take an unused Character Sheet from the box, give it a name, and take Special Abilities equal to the number on each other character, plus one.  Choose one card to return to the deck, and stick the rest to the new Character Sheet.
+> If you have more players than usual, you may need to create a new character.  If it is your turn to choose a character, but there are no Character Sheets left, take an unused Character Sheet from the box, give it a name, and take Special Abilities equal to the number on each other character, plus one.  Choose one ability to return to the deck, and stick the rest to the new Character Sheet.
 
 > At the end of each _even-numbered_ game, draw and reveal a number of Special Ability cards equal to the number of players in the game.  Each player chooses one and sticks it to their Character Sheet.
 
-> The order is determined by how many destination cards remain in the players' hand, starting with the player with the most cards and finishing with the player that has won the game and therefore has zero.
+> The order of choosing is determined by how many destination cards remain in the players' hand, starting with the player with the most cards and finishing with the player that has won the game and therefore has zero.
 
 > If some players have the same number, priority goes to the player whose home is furthest north.  Any unused characters for this game get an extra Special Ability from the deck at random.
 
@@ -181,30 +189,32 @@ Stick the following labels to your Rules Sheet:
 If this was an even-numbered game, then take new Special Ability cards as described now!
 
 ### Cards to include ###
-- (A) **Private yacht**: You may move along the coast by 1 city as if it were a sea route, e.g. Brest to Nantes or Riga to Gdansk
+- (A) **Private yacht**: You may move along the coast by 1 city as if it were a sea route, e.g. Brest to Nantes, or Riga to Gdansk
 - (A) **Olympian**: You may move immediately to Athens instead of a normal turn.
 - (A) **Viking**: You may move immediately to Reykjavík instead of a normal turn.
 - (A) **Chef**: You may move immediately to Paris instead of a normal turn.
 - (A) **Hare**: Rolls of 5 or 6 are doubled, but rolls of 1--4 count for 0.
 - (A) **Tortoise**: Ignore and reroll all 6s, but get an extra turn when you roll a 1.
 - (A) **Black cat**: If you roll a 1, you may ignore it and reroll.
-- (A) **Dora**: If you roll a 1, you get an extra turn.
+- (A) **Dora**: If you roll a 1, it counts as a 3.
 - (A) **Commander**: If you roll a 1, make your move and then move another player 1 city by road (ignoring any movement penalties).
 - (A) **Interpol**: If you move into or through a city occupied by another player, you may move that player to your home city.
 - (A) **Frequent flyer**: Flights cost 1 movement point less than usual.
 - (A) **Hajji**: Land routes going southeast cost only half a point, e.g. Trondheim to Sundsvall or Naples to Messina.
 - (A) **Flygskam**: Add 2 to all rolls, but you cannot fly.
 - (A) **Seasick**: You cannot travel by sea, but you can fly to Ajaccio, Cagliari, Faeroe and Shetland.
-- (A) **Lonely backpacker**: Whenever you are in the same city as another player (even passing through), you must stop immediately and follow that player for their next 2 turns, missing your own 2 turns on those rounds.
+- (A) **Lonely backpacker**: Whenever you are in the same city as another player (even passing through), you must stop immediately and follow that player for their next 2 turns, missing your next turn in the meantime.
 - (A) **Late planner**: When handing in your 5th destination, you may trade one destination card to the bank for a random one of the same colour.
-- (A) **Brit abroad**: Whenever you are in the same city as another player (even passing through), challenge that player to fight: each player rolls the die, and the lower roll loses and misses their next turn.
+- (A) **Brit abroad**: Whenever you are in the same city as another player (even passing through), challenge that player to fight: each player rolls the die, and the lower roll misses their next turn.
 - (A) **Off-duty pilot**: You may make one free flight per game.
 - (A) **Cuckoo**: Whenever you are in the same city as another player (even passing through), you can kick that player out to any neighbouring city.
-- (A) **Lover**: Whenever you are in the same city as another player (even passing through), that player follows you for this and your next turn, missing their own turns in these rounds.
-- (A) **Rockstar**: Before rolling for your movement, you may choose to double your roll.  You move, but the player to your left then rolls and moves for you, before taking their own turn.
+- (A) **Leader**: Whenever you are in the same city as another player (even passing through), that player follows you for this and your next turn, missing their own turn in the meantime.
+- (A) **Rockstar**: Before rolling for your movement, you may choose to double your roll.  You roll and move, but the player to your left then rolls and makes another move for you, before their own turn.
 
 - (R) **Events**: Open Envelope I.  Destroy this card.
 - (R) **The Iron Curtain**: Open Envelope B.  Destroy this card.
+
+_(Also include 6 Character Sheets)_
 
 
 
@@ -216,11 +226,9 @@ Sometimes when travelling, unexpected things happen.  Whatever plans you make, y
 
 This envelope contains a whole load of Event cards.  Don't look at these just yet, but shuffle them and put them in a pile next to the board face-down.  Add the following labels to the Rules Sheet:
 
-> If a player rolls a 6, and then when rolling for their extra turn they get another 6, they do not move, but immediately draw and read out an Event card, following its instructions.  Then play passes to the next player.
+> If a player rolls a 6, and then when rolling for their extra turn they get another 6, they do not move again, but immediately draw and read out an Event card, following its instructions.  Then play passes to the next player.
 
-> Return used Event cards to the bottom of the deck, unless otherwise instructed.
-
-> Shuffle the Event deck at the beginning of each game.
+> Return used Event cards to the bottom of the deck, unless otherwise instructed.  Shuffle the Event deck at the beginning of each game.
 
 More Event cards may be added as you open other envelopes!
 
@@ -230,26 +238,22 @@ This envelope also contains one Rules card.  Shuffle it carefully into the deck 
 
 - (E) **Breakup of...**: If this country has only one city, return this card to the deck and do nothing.  Otherwise, open Envelope F and destroy this card.
 - (E) **Lost Luggage**: No one may hand in any more destination cards until they revisit the last destination they handed in (or their home city if they haven't handed in any).
-- (E) **New Airport**: Add an airport to this city, if there is not one here already.
+- (E) **New Airport**: Add an airport to this city permanently, if there is not one here already.
 - (E) **Ash Cloud**: Flying is not allowed for the rest of this game.
-- (E) **Civil Unrest**: No one may enter this country for the rest of the game.  Anyone with destination cards here must exchange them for random cards of the same colour.
+- (E) **Civil Unrest**: No one may enter this country for the rest of this game.  Anyone with destination cards here must exchange them for random cards of the same colour.
 - (E) **Summit**: Each player must visit this city before they can hand in any more destination cards.
-- (E) **UK Invades Faroe Islands**: All sea routes in the Northwest quarter of the board cost double for the rest of this game.
+- (E) **Cod War**: All sea routes in the Northwest quarter of the board cost double for the rest of this game.
 - (E) **Royal Navy Attempts Invasion**: All sea routes connected to this country are blocked for the rest of this game.
 - (E) **Ancient Ruins Discovered**: All other players must visit this city before they can win, as an extra destination.
 - (E) **London Olympics**: All players must visit London before they can win, as an extra destination.
-- (E) **Eurovision Song Contest**: This country has won, after all its neighbours voted for it!  Add 1 to all rolls made in this country and its neighbours for the rest of the game.
-- (E) **Flight Diverted**: Each player chooses up to 2 destination cards (not your home city) to pass to the player on their left.
+- (E) **Eurovision Song Contest**: This country has won, after all its neighbours voted for it!  Add 1 to all rolls made in this country and its neighbours for the rest of this game.
+- (E) **Flight Diverted**: Each player chooses up to 2 destination cards (not their home city) to pass to the player on their left.
 - (E) **Pandemic**: Each time *you* end your turn in a city, place a disease token (red cube) there.  Each time *another* player moves into or through an infected city, you get an extra movement point on your next turn.
-- (E) **Giant Portuguese Chicken Begins Rampage**: Add a red cube to Lisbon for the giant chicken.  At end of each player's turn, they move the chicken along one land or sea route.  If the chicken _moves onto_ a city occupied by a player, that player misses 3 turns.
-- (E) **Holiday Romance**: Fall in love with a player of your choice.  Move to their space now, and remove their home marker.  You will now travel together on your turn and theirs.  To win, you must visit all destinations you both have, and return to your home -- the win is shared!
-- (E) **Puncture**: Keep this card.  After a player makes a move entirely by road, you may discard this card to undo that move and make them miss their turn instead.
-- (E) **Independence**: Choose one of the following countries to become independent:
-    - Scotland (Glasgow, Inverness, Aberdeen, Shetland)
-    - Catalonia (Barcelona)
-    - Bavaria (Munich, Nuremberg)
-  Use a permanent marker to draw in the border, and add a country code (SC, CA or BY).  Destroy this card.
-- (E) **Flightpath Hackers**: For the rest of the game, if a player flies, they roll a die: if 1 or 2, the player to their left chooses any airport on the board, and they land there.
+- (E) **Giant Portuguese Chicken Begins Rampage**: Add a red cube to Lisbon for the giant chicken.  At end of each player's turn, that player moves the chicken along one land or sea route.  If the chicken moves onto a city occupied by a player, that player misses 3 turns.
+- (E) **Holiday Romance**: Fall in love with a player of your choice.  Move to their space now, and remove their home marker.  You will now travel together for the rest of the game, on your turn and on theirs.  To win, you must visit all destinations you both have, and return to your home -- the win is shared!
+- (E) **Puncture**: Keep this card.  After a player takes a turn moving entirely by road, you may discard this card to undo that move and make them miss their turn instead.
+- (E) **Independence**: Choose one of the following countries to become independent: Scotland (Glasgow, Inverness, Aberdeen, Shetland); Catalonia (Barcelona); or Bavaria (Munich, Nuremberg).  Use a permanent marker to draw in the border, and add a country code (SC, CA or BY).  Destroy this card.
+- (E) **Flightpath Hackers**: For the rest of the game, if a player flies, they roll a die: on a 1 or 2, the player to their left chooses any airport on the board, and they land there.
 
 - (R) **High Speed Rail**: Open Envelope E.  Destroy this card.
 
@@ -265,7 +269,7 @@ Add the following label to the board somewhere over the compass in the Arctic Oc
 
 And add the following label to the Rules Sheet:
 
-> Each time a player takes a flight, fill in one box with initials identifying that player's character. [G]
+> Each time a player takes a flight, fill in one box in the thermometer with initials identifying that player's character. [G]
 
 
 
@@ -283,22 +287,22 @@ Add the following labels to the Rules Sheet:
 
 > No player may stop in a city that is flooded (marked with a cross).
 
-> All roads entering a flooded city are now considered sea routes, and any railways on the route are unusable.
+> All roads and railways entering a flooded city are now considered sea routes.  You may not fly to a flooded city.
 
-> You may only travel through a flooded city if you have enough movement points to move into it and back out of it again, via sea routes, on the same turn.  You may not fly to a flooded city.
+> You may only travel through a flooded city if you have enough movement points to move into it and back out of it again, via sea routes, on the same turn.
 
 Any player currently in a flooded city evacuates to the nearest unflooded city.
 
-Examine the boxes on the thermometer to see which character took the most flights.  Stick the following label to their Character Sheet, in the area marked "Leave this area blank":
+Examine the boxes on the thermometer to see which character took the most flights.  Stick the following label to their Character Sheet, in the area marked "Leave this area empty":
 > **Polluter**: Each time you move into a city adjacent to a flooded city, roll a die: on a 1, the inhabitants attack you and you skip the rest of your turn.
 
-All players vote on which of the following two labels should be added to the Rules Sheet over the label marked [G]:
+All players vote on which one of the following two labels should be added to the Rules Sheet:
 
 > Each player may take only one flight per game.
 
 > Each time a player takes a flight, they must draw one additional destination card which they must fulfil before completing the game.
 
-Stick the most popular one to the sheet, and destroy the other.  If the vote is tied, choose randomly.
+Stick the most popular one to the sheet over the label marked [G], and destroy the other.  If the vote is tied, choose randomly.
 
 Shuffle the enclosed Special Ability card into the Special Ability deck, without looking at it.
 
@@ -321,12 +325,12 @@ Now stick the following label to the Rules Sheet:
 
 > Moving along a rail route (crossed with black lines) costs only half a point of movement.
 
-Add the enclosed cards to the Event deck and Special Abilities deck as appropriate.
+Shuffle the enclosed cards into the Event deck and Special Abilities deck as appropriate.
 
 ### Cards to include ###
 - (A) **Railroad tycoon**: When moving by road away from a rail-connected city, add rail along the first route you take.
 
-- (E) **HS3**: Add a new length-3 railway anywhere in this country (or as long as possible).
+- (E) **HS3**: Add a new railway anywhere in this country, of length up to 3.
 - (E) **Leaves on the line**: For the rest of the game, moving along a rail route costs 2 movement points instead of half a movement point.  This applies to everyone.
 - (E) **Tour de France**: Cost of all road movement in France is doubled, and French railways are unusable, for the rest of the game.  The first player to travel from Strasbourg to Marseilles to Bordeaux to Paris, all by road, may hand in up to 3 destination cards for free (not their home city).
 - (E) **French Train Drivers' Strike**: Any rail routes that are connected to France by rail are unusable for the rest of the game.  They act as normal roads.
@@ -341,10 +345,10 @@ _The Iron Curtain_
 
 --- Winston Churchill, 1946
 
-In the winter of 1982, Europe is a continent divided.  In the East, the spectre of Communism looms large; the Warsaw Pact has solidified the dominance of Marxist--Leninist doctrine, and formalised Moscow's tight control over its puppet states.  In the West, the combined forces of capitalist democracy, backed by the US, have formed a nuclear treaty known as NATO, in order to project their own power, and to stop any more nations falling to revolution or the Red Army.  Only a few states remain neutral, and have formed the Non-Aligned Movement in order to commit themselves to peace, and thus preserve their independence.  A tense state of Cold War has existed for decades.
+In the winter of 1982, Europe is a continent divided.  In the East looms the spectre of Communism; the Warsaw Pact has solidified the dominance of Marxist--Leninist doctrine, and formalised Moscow's tight control over its puppet states.  In the West, the combined forces of capitalist democracy, backed by the US, have formed a nuclear treaty known as NATO, in order to project their own power, and to stop any more nations falling to revolution or the Red Army.  Only a few states remain neutral, and have formed the Non-Aligned Movement in order to commit themselves to peace, and thus preserve their independence.  A tense state of Cold War has existed for decades.
 
 Every country on the board is now part of one of three factions: NATO, the Warsaw Pact (WP), and "non-aligned".  Take the stickers included in this envelope, and stick one on the board right next to each oval-shaped country code, using the following factions:
-- NATO (blue):
+- NATO (blue stickers):
   - B (Belgium)
   - D (West Germany)
   - DK (Denmark)
@@ -358,7 +362,7 @@ Every country on the board is now part of one of three factions: NATO, the Warsa
   - NL (Netherlands)
   - P (Portugal)
   - TR (Turkey)
-- WP (red):
+- WP (red stickers):
   - BG (Bulgaria)
   - CS (Czechoslovakia)
   - DDR (East Germany)
@@ -366,7 +370,7 @@ Every country on the board is now part of one of three factions: NATO, the Warsa
   - PL (Poland)
   - R (Romania)
   - SU (Soviet Union)
-- Non-aligned (yellow):
+- Non-aligned (yellow stickers):
   - A (Austria)
   - AL (Albania)
   - CH (Switzerland)
@@ -395,7 +399,7 @@ And add the following labels to the Rules Sheet:
 Shuffle the enclosed cards into the appropriate decks, without looking at them.
 
 ### Cards to include ###
-Write the letter "B" somewhere subtle on the back of each of the Special Ability and Event cards.
+Write the letter "B" somewhere subtle on the back of each of these Special Ability and Event cards.
 
 - (A) **Diplomat**: You can move between NATO and WP countries.
 - (A) **Revolutionary**: Once per game, you may change the faction of the country you are in to that of a neighbouring country.
@@ -429,20 +433,26 @@ Stick the following labels to the Rules Sheet, covering all the labels marked wi
 
 > _(One blank label)_
 
-Shuffle the enclosed Event cards into Event deck, without looking at them.  Destroy all Event and Special Ability cards with a letter "B" on the back.
+Stick the following label on the board, over the label with 3 crosses for NATO:
+
+> _(An EU flag)_
+
+Shuffle the enclosed Event cards into Event deck, without looking at them.
+
+Destroy all Event and Special Ability cards with a letter "B" on the back.
 
 ### Cards to include ###
 - (E) **Rogue State**: Open Envelope D.  Destroy this card.
 - (E) **Exit**: This country leaves the EU.  Stick a yellow sticker on it.  If it was already non-EU, choose an EU country to leave.
 - (E) **Brexit**: The UK votes to leave the EU.  Either put a yellow sticker on it, or ignore the will of the people and take another Event card.
-- (E) **Capitalism is Unfair**: Whoever has fewest destination cards gives one to another player.  In case of a tie, all tied players do so.
+- (E) **Capitalism is Unfair**: Whoever has fewest destination cards gives one to another player (not their home city).  In case of a tie, all tied players do so.
 
 
 ## Envelope K ##
 ### Instructions sheet ###
 _The Fall of Capitalism_
 
-After 45 years of cold war against the Eastern Bloc, the West is exhausted.  Market chaos, spiralling military spending, and a failure to keep up with the Soviets in living standards have created the backdrop to the fall of an ideology.  Socialist parties across the West have made unprecedented gains, and desparate attempts to crush the left wing have only turned the people further against the establishment.  General strikes have taken hold across Western Europe, bringing government after government to their knees.  Even the United States has been forced to capitulate to Communist elements from within, and its very existence is uncertain as civil unrest causes several states to begin to secede.  In the chaos, the USSR begins what it calls a peacekeeping mission in Alaska, with the embattled Washington powerless to stop them.
+After 45 years of cold war against the Eastern Bloc, the West is exhausted.  Market chaos, spiralling military spending, and a failure to keep up with the Soviets in living standards have created the backdrop to the fall of an ideology.  Socialist parties across the West have made unprecedented gains, and desparate attempts to crush the Left have only turned the people further against the establishment.  General strikes have taken hold across Western Europe, bringing government after government to their knees.  Even the United States has been forced to capitulate to Communist elements from within, and its very existence is uncertain as civil unrest causes several states to begin to secede.  In the chaos, the USSR begins what it calls a peacekeeping mission in Alaska, with the embattled Washington powerless to stop them.
 
 With its superpower gone, NATO is defunct, the market economy is discredited, and democracy itself begins to slip away.  In this post-capitalist Europe, Moscow acts more boldly, and begins to describe the Warsaw Pact openly as what it has always been in secret: a Soviet Empire.
 
@@ -461,7 +471,11 @@ Stick the following labels to the Rules Sheet, covering all the labels marked wi
 
 Since this is the end of a game, 2 countries are invaded right now.
 
-Shuffle the enclosed Event cards into the Event deck, without looking at them.
+Stick the following label on the board, over the label with 3 crosses for the Warsaw Pact:
+
+> _(A hammer and sickle)_
+
+Shuffle the enclosed Event cards into the Event deck, without looking at them.  Destroy all Event and Special Ability cards with a letter "B" on the back.
 
 ### Cards to include ###
 - (E) **Rogue State**: Open Envelope H.  Destroy this card.
@@ -476,7 +490,7 @@ A regime change in this country has taken the world by surprise.  Nobody expecte
 
 Put a red sticker on the country you are currently in, replacing its yellow or blue sticker.  Stick the following label to the Rules Sheet:
 
-> A red sticker denotes a Rogue Communist State. [D]
+> A red sticker denotes a Rogue Communist State.
 
 > If a player with their home in a non-EU state hands in a destination card in a Rogue Communist State, that player rolls a die.  If they roll less than __, open Envelope N.
 [D]
@@ -486,7 +500,7 @@ Fill in the blank on the label with a number computed as follows: 30 divided by 
 
 
 ## Envelope H
-_(As D, but swapping red for blue, Communist for Fascist, etc.)_
+_(As D, but swapping red for blue, Communist for Fascist, Envelope N for Envelope M, etc.)_
 
 
 
@@ -516,13 +530,13 @@ The rogue state and the EU now take turns firing nuclear missiles at each other.
 On a player's turn:
 - First, the player chooses one of the weapons in their territory to fire, and removes it from the board.
 - They choose a city to fire on, and write it down secretly.
-- Each player on the opposing side may now choose to move **one** weapon along a single road or sea route, to another city in their own territory that has not been nuked.
+- Each player on the opposing side may now choose to move **one** weapon along a single road or sea route, to another city in their own territory that has not previously been nuked.
 - The attacking player now reveals the city they wrote down, and the missile lands there.
 - Put a green sticker on the nuked city.
-- If the nuked city contained any weapons, they are destroyed and removed from the board.  The attacking player may hand one destination card (not their home city) to the player who controls the nuked city.
-- If the nuked city did not contain a weapon, then this was a misfire.  As compensation, the player who controls the nuked city gets an additional weapon which they may add to any non-nuked city in their country.
+- If the nuked city contained any weapons, they are destroyed and removed from the board, and the attacking player may hand one destination card (not their home city) to the player who controls the nuked city.
+- If the nuked city did not contain a weapon, then this was a misfire, and as compensation, the player who controls the nuked city gets an additional weapon which they may add to any non-nuked city in their country.
 
-Each time it is the EU's turn, a player is chosen randomly from among EU players who still have weapons to use.  This can be done using dice.
+Each time it is the EU's turn, a player is chosen randomly from among all EU players who still have weapons to use.  This can be done using dice.  The chosen player takes their turn as above,  and other EU players wait for a future turn.
 
 If a city containing a player's piece is hit by a missile, they die and their playing piece is moved back to their home city.
 
@@ -532,9 +546,9 @@ If the rogue player ran out first, then the Rogue Communist State becomes non-al
 If the EU ran out first, then put a red sticker on the invaded country, which is now a puppet.
 If both sides ran out on the same turn, then neither of these things happens.
 
-Stick the following blank labels over the labels marked [D]:
+Stick the following blank label over the label marked [D]:
 
-> _(Include 2 blank labels)_
+> _(Include 1 blank label)_
 
 After the war is over, remove all remaining weapons from the board and open Envelope P.
 
@@ -564,7 +578,7 @@ Stick the following labels to the Rules Sheet:
 
 Now continue play as normal, starting to the left of the player who acted as the rogue state.
 
-Shuffle the enclosed Event card into the Event decks, without looking at it.
+Shuffle the enclosed Event card into the Event deck, without looking at it.
 
 ### Cards to include ###
 - (E) **Chernobyl Disaster**: This city is nuked.  Stick a green sticker on it and move to an adjacent city.
@@ -594,18 +608,18 @@ Stick the following labels to the Rules Sheet, and fill in the blanks with the n
 ### Instructions sheet ###
 _Former ______ Republics_
 
-The civil war in this region is over!  Perhaps it ended before too long; perhaps there are now a *lot* of new countries for children to learn.
+The civil war in this region is over!  Perhaps it ended before too long; perhaps there are now a *lot* of new countries for European schoolchildren to learn.
 
 Cover up all the labels on the Rules Sheet marked [F] with the blank labels included here.  These countries will not split up any more.
 
-It's time to give the new countries names!  One country should have the original country abbreviation that was marked on the board: this has the same name as the original country.  All the other countries should now be given names: think of some together, and write abbreviations for them on the board in black circles.  Now put a yellow sticker on all new countries to denote their non-aligned status.
+It's time to give the new countries names!  One country should have an oval-shaped country abbreviation that was already printed on the board: this has the same name as the original country.  All the other countries should now be given names: think of some together, and write abbreviations for them on the board in black circles.  Now put a yellow sticker on all new countries to denote their non-aligned status.
 
 Peace has come to this region, but things will never be quite as they were.
 
 Look at the included Special Ability card, fill in the blank with the original name of the broken up country, and shuffle it into the Special Ability deck.
 
 ### Components to include ###
-- (A) **Unionist**: You may travel between former ______ countries without border penalties, and regardless of faction.
+- (A) **Unionist**: You may travel between from one former ______ country to another without border penalties, and regardless of faction.
 
 5 blank labels
 
@@ -624,14 +638,14 @@ Each player adds one city to the North coast of Africa.  To do this:
 These cities are part of the African Union, which acts as one non-aligned country covering the whole continent.  Mark it now by writing the letters "AU" in a black circle and adding a yellow sticker.
 
 Stick the following label to the Rules Sheet:
-> At the beginning of the game, when each player is dealt 3 yellow destination cards, deal one African destination card as well, to make a draft of 4 cards in total.
+> At the beginning of the game, when each player is dealt 3 yellow destination cards, deal one African destination card each as well, to make a draft of 4 cards in total.
 
 Shuffle the enclosed cards into the appropriate decks, without looking at them.
 
 ### Cards to include ###
 - (A) **Bedouin**: You may travel from an African city to any other African city for a movement cost of 1.
 
-- (E) **African Infrastructure**: Each player adds one road or sea route connecting two African cities
+- (E) **African Infrastructure**: Each player adds one road or sea route connecting two African cities.
 - (E) **African City**: Create a new African city connected to another African city via a road or sea route.  Make a destination card to go with it.
 
-_(Include at least 6 blank destination cards)_
+_(Include at least 8 blank destination cards)_

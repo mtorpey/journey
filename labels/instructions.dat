@@ -54,7 +54,7 @@ You may not move directly between NATO countries and WP countries.  This include
 \textbf{Exception}
 You may fly from West Germany to Berlin, but must then fly back to West Germany before any further movement. [B]
 
-\emph{(2 columns of 3 boxes, the left one marked with a dollar, and the right one marked with a hammer-and-sickle)}
+\begin{tikzpicture}   \draw[draw=black] (0,0) rectangle ++(0.7,0.7);   \draw[draw=black] (0,0.7) rectangle ++(0.7,0.7);   \draw[draw=black] (0,1.4) rectangle ++(0.7,0.7);      \draw[draw=black] (4,0) rectangle ++(0.7,0.7);   \draw[draw=black] (4,0.7) rectangle ++(0.7,0.7);   \draw[draw=black] (4,1.4) rectangle ++(0.7,0.7);   \draw node at (1,1.05) {\Huge \textit \$};   \draw node at (3.3,1.05) {\includesvg[height=10mm]{hammer-and-sickle}};   \end{tikzpicture}
 
 At the end of each game, if the winner's home was in a NATO or WP country, put a cross in the corresponding column on the board.  If all 3 NATO (\$) boxes are filled, open Envelope Q.  If all 3 WP (☭) boxes are filled, open Envelope K. [B]
 

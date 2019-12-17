@@ -63,11 +63,8 @@ No one travels around Europe at random.  We all have choice over where we want t
 Stick the following labels to the Rules Sheet:
 
 \sticky{}
-
 \sticky{}
-
 \sticky{}
-
 \sticky{}
 
 \pagebreak
@@ -85,17 +82,11 @@ Next, examine the Character Sheets included in this envelope.  Take the one that
 Stick the following labels to your Rules Sheet:
 
 \sticky{}
-
 \sticky{}
-
 \sticky{}
-
 \sticky{}
-
 \sticky{}
-
 \sticky{}
-
 \sticky{}
 
 If this was an even-numbered game, then take new Special Ability cards as described now!
@@ -111,7 +102,6 @@ Sometimes when travelling, unexpected things happen.  Whatever plans you make, y
 This envelope contains a whole load of Event cards.  Don't look at these just yet, but shuffle them and put them in a pile next to the board face-down.  Add the following labels to the Rules Sheet:
 
 \sticky{}
-
 \sticky{}
 
 More Event cards may be added as you open other envelopes!
@@ -146,10 +136,8 @@ Look through the red destination cards that aren't in use at the moment, examini
 
 Add the following labels to the Rules Sheet:
 
-\sticky{}
-
-\sticky{}
-
+\sticky{} \vspace{-0.5cm}
+\sticky{} \vspace{-0.5cm}
 \sticky{}
 
 Any player currently in a flooded city evacuates to the nearest unflooded city.
@@ -161,7 +149,6 @@ Examine the boxes on the thermometer to see which character took the most flight
 All players vote on which one of the following two labels should be added to the Rules Sheet:
 
 \sticky{}
-
 \sticky{}
 
 Stick the most popular one to the sheet over the label marked [G], and destroy the other.  If the vote is tied, choose randomly.
@@ -237,21 +224,14 @@ Non-aligned (yellow stickers):
   - SF (Finland)
   - YU (Yugoslavia)
 
-Stick the following labels to the Rules Sheet:
+Stick the following label to the board somewhere over the compass in the Arctic Ocean:
 
 \sticky{}
 
-\sticky{}
+And stick the following labels to the Rules Sheet:
 
-\sticky{}
-
-Add the following label to the board somewhere over the compass in the Arctic Ocean:
-
-\sticky{}
-
-And add the following labels to the Rules Sheet:
-
-\sticky{}
+\doublesticky{}
+\doublesticky{}
 
 Shuffle the enclosed cards into the appropriate decks, without looking at them.
 
@@ -269,13 +249,10 @@ Blue stickers now denote EU members, while yellow stickers denote non-members.
 
 Stick the following labels to the Rules Sheet, covering all the labels marked with [B]:
 
-\sticky{}
+\doublesticky{}
+\doublesticky{}
 
-\sticky{}
-
-\sticky{}
-
-\sticky{}
+\pagebreak
 
 Stick the following label on the board, over the label with 3 crosses for NATO:
 
@@ -301,13 +278,10 @@ Red stickers now denote the Soviet Empire, while yellow stickers denote the coun
 
 Stick the following labels to the Rules Sheet, covering all the labels marked with [B]:
 
-\sticky{}
+\doublesticky{}
+\doublesticky{}
 
-\sticky{}
-
-\sticky{}
-
-\sticky{}
+\pagebreak
 
 Since this is the end of a game, 2 countries are invaded right now.
 
@@ -321,14 +295,13 @@ Shuffle the enclosed Event cards into the Event deck, without looking at them.  
 
 
 
-# Rogue State #
+# Rogue Communist State #
 
 A regime change in this country has taken the world by surprise.  Nobody expected the recent elections to deliver such radical results, and now hopes of a return to normality have been dashed as extreme paramilitaries sieze the capital in a military coup.  With the alleged support of the people, the new regime declares a state of emergency, executing former leaders, seizing property, and beginning a weapons programme unprecedented in the modern age.  All borders are closed, and foreign governments look on with apprehension.
 
 Put a red sticker on the country you are currently in, replacing its yellow or blue sticker.  Stick the following labels to the Rules Sheet:
 
 \sticky{}
-
 \sticky{}
 
 Fill in the blank on the label with a number computed as follows: 30 divided by the number of cities in this country, rounded up.
@@ -337,7 +310,16 @@ Fill in the blank on the label with a number computed as follows: 30 divided by 
 
 
 
-# (As D, but swapping red for blue, Communist for Fascist, Envelope N for Envelope M, etc.) #
+# Rogue Fascist State #
+
+A regime change in this country has taken the world by surprise.  Nobody expected the recent confirmatory elections to deliver such a blow to the Party, and now hopes of a return to normality have been dashed as extreme paramilitaries sieze the capital in a military coup.  With the alleged support of the people, the new regime declares a state of emergency, executing former leaders, seizing property, and beginning a weapons programme unprecedented in the modern age.  All borders are closed, and foreign governments look on with apprehension.
+
+Put a blue sticker on the country you are currently in, replacing its red or yellow sticker.  Stick the following labels to the Rules Sheet:
+
+\sticky{}
+\sticky{}
+
+Fill in the blank on the label with a number computed as follows: 30 divided by the number of cities in this country, rounded up.
 
 \pagebreak
 
@@ -396,7 +378,54 @@ After the war is over, remove all remaining weapons from the board and open Enve
 
 
 
-# (As N, but swapping red for blue, EU for SE, Communist for Fascist, etc.) #
+# Missile Crisis #
+
+Tensions have been growing between this rogue fascist state and its neighbours, and hopes of a nuclear agreement were dashed when a recent summit ended in furious disagreement and threats of war.  Foreign diplomats and journalists have been evacuated, and the rogue government has cut off all communications from this country to the outside world.  The Red Army is on high alert, and the Soviet Empire watches on with bated breath.
+
+Now, without warning, tanks have crossed the border from this country into its neighbour, in a full-blown invasion.  To begin with, the Soviets can only watch in amazement.  But as stories emerge of the invaders' brutal efficiency and their weapons plans, the major powers find themselves unable to stay out of the conflict, and their fingers creep slowly towards the red button.
+
+Read these rules fully before taking any actions.
+
+Each player takes the role of a state:
+
+- The player who triggered this envelope takes the role of the rogue state, and chooses a bordering state to invade.
+- Any player who is currently in a non-invaded SE state takes the role of that state (unless it contains more than one player).
+- Each remaining player chooses any non-invaded SE state they like, going clockwise from the left of the rogue state player.
+
+The rogue player faces off against the allied SE players in a nuclear war.  All players take nuclear weapons tokens (red cubes) from the box as follows:
+
+- The rogue player takes a number equal to the number of players in the game, plus 2.
+- Each other player takes 3.
+
+Each player now distributes their weapons among the cities in their country as they choose.  The rogue player may also use cities in the invaded country.
+
+The rogue state and the SE now take turns firing nuclear missiles at each other.  First the rogue player, then an SE player, then the rogue player, and so on.
+
+On a player's turn:
+
+- First, the player chooses one of the weapons in their territory to fire, and removes it from the board.
+- They choose a city to fire on, and write it down secretly.
+- Each player on the opposing side may now choose to move **one** weapon along a single road or sea route, to another city in their own territory that has not previously been nuked.
+- The attacking player now reveals the city they wrote down, and the missile lands there.
+- Put a green sticker on the nuked city.
+- If the nuked city contained any weapons, they are destroyed and removed from the board, and the attacking player may hand one destination card (not their home city) to the player who controls the nuked city.
+- If the nuked city did not contain a weapon, then this was a misfire, and as compensation, the player who controls the nuked city gets an additional weapon which they may add to any non-nuked city in their country.
+
+Each time it is the SE's turn, a player is chosen randomly from among all SE players who still have weapons to use.  This can be done using dice.  The chosen player takes their turn as above, and other SE players wait for a future turn.
+
+If a city containing a player's piece is hit by a missile, they die and their playing piece is moved back to their home city.
+
+The war ends when one side has run out of weapons.
+
+If the rogue player ran out first, then the Rogue Fascist State becomes non-aligned.
+If the SE ran out first, then put a blue sticker on the invaded country, which is now a puppet.
+If both sides ran out on the same turn, then neither of these things happens.
+
+Stick the following blank label over the label marked [H]:
+
+\sticky{}
+
+After the war is over, remove all remaining weapons from the board and open Envelope P.
 
 \pagebreak
 
@@ -411,7 +440,6 @@ Find the destination cards for all the cities that were nuked, tear them up, and
 Stick the following labels to the Rules Sheet:
 
 \sticky{}
-
 \sticky{}
 
 Now continue play as normal, starting to the left of the player who acted as the rogue state.
@@ -428,14 +456,8 @@ Throughout the many years of this multi-ethnic, multi-cultural country's existen
 
 Stick the following labels to the Rules Sheet, and fill in the blanks with the name of the country you are currently in:
 
-\sticky{}
-
-\sticky{}
-
-\sticky{}
-
-\sticky{}
-
+\doublesticky{} \vspace{-0.5cm}
+\doublesticky{} \vspace{-0.5cm}
 \sticky{}
 
 \pagebreak

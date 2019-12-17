@@ -380,19 +380,17 @@ Every country on the board is now part of one of three factions: NATO, the Warsa
   - SF (Finland)
   - YU (Yugoslavia)
 
-Stick the following labels to the Rules Sheet:
+Stick the following label to the board somewhere over the compass in the Arctic Ocean:
+
+> _(2 columns of 3 boxes, the left one marked with a dollar $, and the right one marked with a hammer-and-sickle ☭)_
+
+And stick the following labels to the Rules Sheet:
 
 > Each country belongs to a faction denoted by its coloured sticker: blue for NATO, red for WP, and yellow for non-aligned. [B]
 
 > You may not move directly between NATO countries and WP countries.  This includes flights and sea routes. [B]
 
 > **Exception**: You may fly from West Germany to Berlin, but must then fly back to West Germany before any further movement. [B]
-
-Add the following label to the board somewhere over the compass in the Arctic Ocean:
-
-> _(2 columns of 3 boxes, the left one marked with a dollar $, and the right one marked with a hammer-and-sickle ☭)_
-
-And add the following labels to the Rules Sheet:
 
 > At the end of each game, if the winner's home was in a NATO or WP country, put a cross in the corresponding column on the board.  If all 3 NATO ($) boxes are filled, open Envelope Q.  If all 3 WP (☭) boxes are filled, open Envelope K. [B]
 
@@ -484,7 +482,7 @@ Shuffle the enclosed Event cards into the Event deck, without looking at them.  
 
 ## Envelope D
 ### Instructions sheet ###
-_Rogue State_
+_Rogue Communist State_
 
 A regime change in this country has taken the world by surprise.  Nobody expected the recent elections to deliver such radical results, and now hopes of a return to normality have been dashed as extreme paramilitaries sieze the capital in a military coup.  With the alleged support of the people, the new regime declares a state of emergency, executing former leaders, seizing property, and beginning a weapons programme unprecedented in the modern age.  All borders are closed, and foreign governments look on with apprehension.
 

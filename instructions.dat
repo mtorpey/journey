@@ -1,0 +1,95 @@
+At the end of each game, draw one Rules cards from the deck (if there is one).  Stick the included label to the Rules Sheet, or follow the instructions.
+
+If you finish a game and there are fewer than 5 envelopes left unopened, you are close to the end.  Play another 3 games, and the series winner is whoever has the most wins in the Hall of Fame at the end!
+
+Instead of dealing destinations randomly, distribute them with 3 drafts.  First, determine home cities as normal.
+
+Then deal 3 red cards to each player: each player chooses one and passes the rest to their left, repeatedly until each player has chosen 3 cards.
+
+Do the same for green cards, and then for yellow.  Each player should end up with their home city, plus 3 destinations of each colour.
+
+No looking at the instructions on the backs of cards!
+
+\small At the beginning of each game, each player chooses a character, clockwise starting with the player to the left of the dealer (do this after home cities are determined, but before other destinations are distributed).  This character determines your special abilities and piece colour for the game.
+
+\footnotesize If you have more players than usual, you may need to create a new character.  If it is your turn to choose a character, but there are no Character Sheets left, take an unused sheet from the box, give it a name, and take Special Abilities equal to the number on each other character, plus one.  Choose one to return to the deck, and stick the rest to the new sheet.
+
+At the end of each \emph{even-numbered} game, draw and reveal a number of Special Ability cards equal to the number of players in the game.  Each player chooses one and sticks it to their Character Sheet.
+
+The order of choosing is determined by how many destination cards remain in the players' hand, starting with the player with the most cards and finishing with the player that has won the game and therefore has zero.
+
+If some players have the same number, priority goes to the player whose home is furthest north.  Any unused characters for this game get an extra Special Ability from the deck at random.
+
+Characters may only have 4 special abilities.  If you already have 4, then choose new Special Abilities as normal, but players may choose to either stick their new ability over an old one, or to return it to the deck unused.
+
+If there are fewer Special Abilities in the deck than players, then do not take new Special Abilities.
+
+If a player rolls a 6, and then when rolling for their extra turn they get another 6, they do not move again, but immediately draw and read out an Event card, following its instructions.  Then play passes to the next player.
+
+Return used Event cards to the bottom of the deck, unless otherwise instructed.  Shuffle the Event deck at the beginning of each game.
+
+\emph{(Picture of a thermometer composed of 100 boxes)} When all boxes are filled, open Envelope O.
+
+Each time a player takes a flight, fill in one box in the thermometer with initials identifying that player's character. [G]
+
+No player may stop in a city that is flooded (marked with a cross).
+
+All roads and railways entering a flooded city are now considered sea routes.  You may not fly to a flooded city.
+
+You may only travel through a flooded city if you have enough movement points to move into it and back out of it again, via sea routes, on the same turn.
+
+\textbf{Polluter}
+Each time you move into a city adjacent to a flooded city, roll a die: on a 1, the inhabitants attack you and you skip the rest of your turn.
+
+Each player may take only one flight per game.
+
+Each time a player takes a flight, they must draw one additional destination card which they must fulfil before completing the game.
+
+Moving along a rail route (crossed with black lines) costs only half a point of movement.
+
+Each country belongs to a faction denoted by its coloured sticker: blue for NATO, red for WP, and yellow for non-aligned. [B]
+
+You may not move directly between NATO countries and WP countries.  This includes flights and sea routes. [B]
+
+\textbf{Exception}
+You may fly from West Germany to Berlin, but must then fly back to West Germany before any further movement. [B]
+
+\emph{(2 columns of 3 boxes, the left one marked with a dollar, and the right one marked with a hammer-and-sickle)}
+
+At the end of each game, if the winner's home was in a NATO or WP country, put a cross in the corresponding column on the board.  If all 3 NATO (\$) boxes are filled, open Envelope Q.  If all 3 WP (☭) boxes are filled, open Envelope K. [B]
+
+Each country belongs to a faction denoted by its coloured sticker: blue for EU, and yellow for non-EU.
+
+There is no border penalty for moving between EU countries.
+
+Each time you hand in a destination card in a non-EU country that borders at least one EU country, roll a die: on a 6, this country joins the EU.
+
+\includesvg[height=30mm]{flag-of-europe}
+
+Each country belongs to a faction denoted by its coloured sticker: red for members of the Soviet Empire (SE), and yellow for non-aligned countries. 
+
+In each game, each player whose home is in a SE country must visit Moscow before they can win, as if they have it as an extra destination card.
+
+At the end of each game, take all the destination cards that were handed in that belong to non-aligned countries.  Pick 2 at random.  These countries are invaded by the Red Army, and join the SE.
+
+\includesvg[height=30mm]{hammer-and-sickle}
+
+A red sticker denotes a Rogue Communist State.
+
+If a player with their home in a non-EU state hands in a destination card in a Rogue Communist State, that player rolls a die.  If they roll less than \vspace{2em}, open Envelope N.
+
+Cities labelled with a green sticker are Nuked.  You may not travel into or through a nuked city, by any method, ever.
+
+After destination cards are distributed, any that are totally inaccessible may be swapped for another card of the same colour.
+
+\blankcountry{} is at civil war.  Travelling into a city that is or was in \blankcountry{} costs one additional movement point, even if you are just passing through. [F]
+
+\small Each time a player hands in a destination card in a city that is or was in \blankcountry{}, that player rolls a die.  On a 6, the civil war is over and you should open Envelope C.  On any other number, the country you are in splits. [F]
+
+\small When a country \emph{splits}, draw a line through it in permanent marker, with half the cities on one side and half the cities on the other (or as near as possible).  These are now two totally separate countries, and border rules apply. [F]
+
+Each new country could be split again on a later turn.  If a country has only one city, it cannot be split. [F]
+
+The exact status of these countries will be determined once the war is over.  For now, they are part of the same faction as \blankcountry{}. [F]
+
+At the beginning of the game, when each player is dealt 3 yellow destination cards, deal one African destination card each as well, to make a draft of 4 cards in total.

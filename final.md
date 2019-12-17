@@ -174,7 +174,7 @@ Next, examine the Character Sheets included in this envelope.  Take the one that
 Stick the following labels to your Rules Sheet:
 > At the beginning of each game, each player chooses a character, clockwise starting with the player to the left of the dealer (do this after home cities are determined, but before other destinations are distributed).  This character determines your special abilities and piece colour for the game.
 
-> If you have more players than usual, you may need to create a new character.  If it is your turn to choose a character, but there are no Character Sheets left, take an unused Character Sheet from the box, give it a name, and take Special Abilities equal to the number on each other character, plus one.  Choose one ability to return to the deck, and stick the rest to the new Character Sheet.
+> If you have more players than usual, you may need to create a new character.  If it is your turn to choose a character, but there are no Character Sheets left, take an unused sheet from the box, give it a name, and take Special Abilities equal to the number on each other character, plus one.  Choose one to return to the deck, and stick the rest to the new sheet.
 
 > At the end of each _even-numbered_ game, draw and reveal a number of Special Ability cards equal to the number of players in the game.  Each player chooses one and sticks it to their Character Sheet.
 
@@ -189,24 +189,24 @@ Stick the following labels to your Rules Sheet:
 If this was an even-numbered game, then take new Special Ability cards as described now!
 
 ### Cards to include ###
-- (A) **Private yacht**: You may move along the coast by 1 city as if it were a sea route, e.g. Brest to Nantes, or Riga to Gdansk
+- (A) **Private Yacht**: You may move along the coast by 1 city as if it were a sea route, e.g. Brest to Nantes, or Riga to Gdansk.
 - (A) **Olympian**: You may move immediately to Athens instead of a normal turn.
 - (A) **Viking**: You may move immediately to Reykjavík instead of a normal turn.
 - (A) **Chef**: You may move immediately to Paris instead of a normal turn.
 - (A) **Hare**: Rolls of 5 or 6 are doubled, but rolls of 1--4 count for 0.
 - (A) **Tortoise**: Ignore and reroll all 6s, but get an extra turn when you roll a 1.
-- (A) **Black cat**: If you roll a 1, you may ignore it and reroll.
+- (A) **Black Cat**: If you roll a 1, you may ignore it and reroll.
 - (A) **Dora**: If you roll a 1, it counts as a 3.
 - (A) **Commander**: If you roll a 1, make your move and then move another player 1 city by road (ignoring any movement penalties).
 - (A) **Interpol**: If you move into or through a city occupied by another player, you may move that player to your home city.
-- (A) **Frequent flyer**: Flights cost 1 movement point less than usual.
+- (A) **Frequent Flyer**: Flights cost 1 movement point less than usual.
 - (A) **Hajji**: Land routes going southeast cost only half a point, e.g. Trondheim to Sundsvall or Naples to Messina.
 - (A) **Flygskam**: Add 2 to all rolls, but you cannot fly.
 - (A) **Seasick**: You cannot travel by sea, but you can fly to Ajaccio, Cagliari, Faeroe and Shetland.
-- (A) **Lonely backpacker**: Whenever you are in the same city as another player (even passing through), you must stop immediately and follow that player for their next 2 turns, missing your next turn in the meantime.
-- (A) **Late planner**: When handing in your 5th destination, you may trade one destination card to the bank for a random one of the same colour.
-- (A) **Brit abroad**: Whenever you are in the same city as another player (even passing through), challenge that player to fight: each player rolls the die, and the lower roll misses their next turn.
-- (A) **Off-duty pilot**: You may make one free flight per game.
+- (A) **Lonely Backpacker**: Whenever you are in the same city as another player (even passing through), you must stop immediately and follow that player for their next 2 turns, missing your next turn in the meantime.
+- (A) **Late Planner**: When handing in your 5th destination, you may trade one destination card to the bank for a random one of the same colour.
+- (A) **Brit Abroad**: Whenever you are in the same city as another player (even passing through), challenge that player to fight: each player rolls the die, and the lower roll misses their next turn.
+- (A) **Off-duty Pilot**: You may make one free flight per game.
 - (A) **Cuckoo**: Whenever you are in the same city as another player (even passing through), you can kick that player out to any neighbouring city.
 - (A) **Leader**: Whenever you are in the same city as another player (even passing through), that player follows you for this and your next turn, missing their own turn in the meantime.
 - (A) **Rockstar**: Before rolling for your movement, you may choose to double your roll.  You roll and move, but the player to your left then rolls and makes another move for you, before their own turn.
@@ -249,7 +249,7 @@ This envelope also contains one Rules card.  Shuffle it carefully into the deck 
 - (E) **Eurovision Song Contest**: This country has won, after all its neighbours voted for it!  Add 1 to all rolls made in this country and its neighbours for the rest of this game.
 - (E) **Flight Diverted**: Each player chooses up to 2 destination cards (not their home city) to pass to the player on their left.
 - (E) **Pandemic**: Each time *you* end your turn in a city, place a disease token (red cube) there.  Each time *another* player moves into or through an infected city, you get an extra movement point on your next turn.
-- (E) **Giant Portuguese Chicken Begins Rampage**: Add a red cube to Lisbon for the giant chicken.  At end of each player's turn, that player moves the chicken along one land or sea route.  If the chicken moves onto a city occupied by a player, that player misses 3 turns.
+- (E) **Giant Portuguese Chicken Rampage**: Add a red cube to Lisbon for the giant chicken.  At end of each player's turn, that player moves the chicken along one land or sea route.  If the chicken moves onto a city occupied by a player, that player misses 3 turns.
 - (E) **Holiday Romance**: Fall in love with a player of your choice.  Move to their space now, and remove their home marker.  You will now travel together for the rest of the game, on your turn and on theirs.  To win, you must visit all destinations you both have, and return to your home -- the win is shared!
 - (E) **Puncture**: Keep this card.  After a player takes a turn moving entirely by road, you may discard this card to undo that move and make them miss their turn instead.
 - (E) **Independence**: Choose one of the following countries to become independent: Scotland (Glasgow, Inverness, Aberdeen, Shetland); Catalonia (Barcelona); or Bavaria (Munich, Nuremberg).  Use a permanent marker to draw in the border, and add a country code (SC, CA or BY).  Destroy this card.
@@ -307,7 +307,7 @@ Stick the most popular one to the sheet over the label marked [G], and destroy t
 Shuffle the enclosed Special Ability card into the Special Ability deck, without looking at it.
 
 ### Cards to include ###
-- (A) **Speedboat salesman**: You may end your turn in a flooded city.
+- (A) **Speedboat Salesman**: You may end your turn in a flooded city.
 
 
 
@@ -328,7 +328,7 @@ Now stick the following label to the Rules Sheet:
 Shuffle the enclosed cards into the Event deck and Special Abilities deck as appropriate.
 
 ### Cards to include ###
-- (A) **Railroad tycoon**: When moving by road away from a rail-connected city, add rail along the first route you take.
+- (A) **Railroad Tycoon**: When moving by road away from a rail-connected city, add rail along the first route you take.
 
 - (E) **HS3**: Add a new railway anywhere in this country, of length up to 3.
 - (E) **Leaves on the line**: For the rest of the game, moving along a rail route costs 2 movement points instead of half a movement point.  This applies to everyone.
@@ -619,7 +619,7 @@ Peace has come to this region, but things will never be quite as they were.
 Look at the included Special Ability card, fill in the blank with the original name of the broken up country, and shuffle it into the Special Ability deck.
 
 ### Components to include ###
-- (A) **Unionist**: You may travel between from one former ______ country to another without border penalties, and regardless of faction.
+- (A) **Unionist**: You may travel from one former ______ country to another without border penalties, and regardless of faction.
 
 5 blank labels
 

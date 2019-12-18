@@ -15,15 +15,14 @@
 \newcommand{\blankcountry}{\rule[-0.2em]{5em}{0.5pt}}
 \newcommand{\blanknumber}{\rule[-0.2em]{1.5em}{0.5pt}}
 
-\newcommand{\sticky}{$$\begin{tikzpicture}
-    \draw[draw=black] (0,0) rectangle ++(64mm,34mm);
-  \end{tikzpicture}$$}
+\newcommand{\innersticky}{\begin{tikzpicture}
+    \draw[draw=white] (0,0) rectangle ++(64mm,34mm);
+    \draw[draw=white, rounded corners=3mm] (3mm,3mm) rectangle ++(58mm, 28mm);
+  \end{tikzpicture}}
 
-\newcommand{\doublesticky}{$$\begin{tikzpicture}
-    \draw[draw=black] (0,0) rectangle ++(64mm,34mm);
-  \end{tikzpicture}\begin{tikzpicture}
-    \draw[draw=black] (0,0) rectangle ++(64mm,34mm);
-  \end{tikzpicture}$$}
+\newcommand{\sticky}{$$\innersticky{}$$}
+
+\newcommand{\doublesticky}{$$\innersticky{}\innersticky{}$$}
 
 \begin{document}
 

@@ -21,8 +21,13 @@
   \end{tikzpicture}}
 
 \newcommand{\sticky}{$$\innersticky{}$$}
-
 \newcommand{\doublesticky}{$$\innersticky{}\innersticky{}$$}
+
+\newcommand{\innervsticky}{\begin{tikzpicture}
+    \draw[draw=white] (0,0) rectangle ++(34mm,64mm);
+    \draw[draw=white, rounded corners=3mm] (3mm,3mm) rectangle ++(28mm, 58mm);
+  \end{tikzpicture}}
+\newcommand{\vsticky}{$$\innervsticky{}$$}
 
 \begin{document}
 

@@ -116,7 +116,7 @@ This envelope also contains one Rules card.  Shuffle it carefully into the deck 
 
 Add the following label to the board somewhere over the compass in the Arctic Ocean:
 
-\sticky{}
+\vsticky{}
 
 And add the following label to the Rules Sheet:
 

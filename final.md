@@ -10,6 +10,8 @@ Michael Torpey, 2019
 
 mctorpey@gmail.com
 
+Version 1.0
+
 
 
 ## What you'll need ##
@@ -34,7 +36,7 @@ mctorpey@gmail.com
 - Envelopes
     - Small sealed envelopes, marked with letters A to R, to be opened as the game proceeds.
     - Each envelope is explained below in its own section.
-    - Each envelope includes an **Instructions sheet**, which will be an A4 or A5 sheet with instructions to the player.  Print this sheet verbatim, but where you see quote sections, these should be printed onto labels stuck to the page with double-sided sticky tape, so that players can peel them off and stick them to the Rules Sheet.
+    - Each envelope includes an **Instructions sheet**, which will be an A5 sheet with instructions to the player.  Print this sheet verbatim, but where you see quote sections, these should be printed onto labels stuck to the page with double-sided sticky tape, so that players can peel them off and stick them to the Rules Sheet.
     - Each envelope may also contain some cards or other components, which should be included as well (usually in a plastic bag so players don't look at them straight away).
     - Cards to be included will start with (R) or (E) or (A), denoting what type of card they are...
 - Cards (included in envelopes)
@@ -382,7 +384,7 @@ Every country on the board is now part of one of three factions: NATO, the Warsa
 
 Stick the following label to the board somewhere over the compass in the Arctic Ocean:
 
-> _(2 columns of 3 boxes, the left one marked with a dollar $, and the right one marked with a hammer-and-sickle ☭)_
+> _(2 columns of 3 boxes, the left one marked with a dollar, and the right one marked with a hammer-and-sickle)_
 
 And stick the following labels to the Rules Sheet:
 
@@ -392,7 +394,7 @@ And stick the following labels to the Rules Sheet:
 
 > **Exception**: You may fly from West Germany to Berlin, but must then fly back to West Germany before any further movement. [B]
 
-> At the end of each game, if the winner's home was in a NATO or WP country, put a cross in the corresponding column on the board.  If all 3 NATO ($) boxes are filled, open Envelope Q.  If all 3 WP (☭) boxes are filled, open Envelope K. [B]
+> At the end of each game, if the winner's home was in a NATO or WP country, put a cross in the corresponding column on the board.  If all 3 NATO boxes are filled, open Envelope Q.  If all 3 WP boxes are filled, open Envelope K. [B]
 
 Shuffle the enclosed cards into the appropriate decks, without looking at them.
 

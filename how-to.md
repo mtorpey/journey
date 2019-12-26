@@ -8,7 +8,7 @@ If you want to play without spoilers, **stop reading now**.  Ask a friend who do
 
 Michael Torpey, 2019
 
-mctorpey@gmail.com
+https://github.com/mtorpey/journey
 
 Version 1.0
 
